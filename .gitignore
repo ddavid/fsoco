@@ -1,9 +1,2 @@
-# Image Files
-*.jpg
-*.JPG
-*.JPEG
-*.jpeg
-*.gif
-*.GIF
-*.png
-*.PNG
+# Image Folder
+images/
