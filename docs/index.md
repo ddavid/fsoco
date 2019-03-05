@@ -24,7 +24,11 @@ Here you'll find the definitions for all different annotation types appearing in
 
 Darknet uses normalized image dimensions for the labels and defines the regions-of-interest (ROI) by their **class**, **mid-point**, **width** and **height**
 
+![Darknet Bounding-Box](img/bbox-description.png)
+
 ```bash
+# darknet-label.txt
+
 0 0.255078125 0.545833333333 0.02421875 0.0583333333333
 0 0.41328125 0.613194444444 0.040625 0.0819444444444
 0 0.81015625 0.780555555556 0.0734375 0.15
@@ -34,7 +38,7 @@ Darknet uses normalized image dimensions for the labels and defines the regions-
 
 ## Who?
 * municHMotorsport e.V.
-[municHMotorsport e.V.](https://www.munichmotorsport.de/static/img/logo_rw.png)
+![municHMotorsport e.V.](https://www.munichmotorsport.de/static/img/logo_rw.png)
 * ...
 
 ## Why?
