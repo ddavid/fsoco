@@ -1,8 +1,3 @@
----
-layout: post
-title: FSOCO
----
-
 # FSOCO
 <small>Formula Student Objects in Context</small>
 
