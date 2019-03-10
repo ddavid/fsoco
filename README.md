@@ -1,6 +1,8 @@
 # FSOCO
 <small>Formula Student Objects in Context</small>
-Visit the [project's website](https://ddavid.github.io/fsoco/)
+
+Visit the [project's website and documentation](https://ddavid.github.io/fsoco/)
+
 ![FSD pylon mosaic](https://imgur.com/JMCV3Dr.png)
 
 ## Contributing
