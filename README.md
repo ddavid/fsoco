@@ -19,7 +19,7 @@ The pictures are saved and shared through a Google Photos account created becaus
 
 ## Documentation
 As we all know, documentation is key for good performance. Please help improve the documentation of this repository if you stumble upon something or if you add scripts.
-[The documentation](https://ddavid.github.io/fsoco/) is hosted on [GitHub](https://github.com), based on the `docs/` directory in this repository and uses [Markdown](https://github.github.com/gfm/) to make it as easy as possible to contribute.
+[The documentation](https://ddavid.github.io/fsoco/) is hosted on [GitHub](https://github.com), based on the `docs/` directory in this repository and uses [Markdown](https://github.github.com/gfm/) to make it as easy as possible to contribute. The landing page is based on `docs/index.md`.
 
 ## Support
 
