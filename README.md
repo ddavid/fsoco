@@ -1,15 +1,26 @@
 # FSOCO
 <small>Formula Student Objects in Context</small>
 Visit the [project's website](https://ddavid.github.io/fsoco/)
-![FSD pylon mosaic](https://imgur.com/JMCV3Dr)
+![FSD pylon mosaic](https://imgur.com/JMCV3Dr.png)
 
 ## Contributing
 Sharing is caring. If you don't care, we unfortunately cannot grant access to the dataset ;)
-If you're interested in accessing this dataset, [write us an e-mail](mailto:fsoco@munichmotorsport.de). We'll open a shared album with you to which the upload of your data can be performed. After this, please open a pull request for the corresponding labels.
-Bonus points to those who upload useful scripts.
+
+If you're interested in accessing this dataset: 
+1. [Write us an e-mail](mailto:fsoco@munichmotorsport.de)
+1. Upload data to shared album
+1. Fork the repository
+1. Add labels to the repository
+1. Update [documentation](https://ddavid.github.io/fsoco/)
+1. [Add relevant scripts to the repository] OPTIONAL but highly encouraged
+1. Open pull request
 
 The pictures are saved and shared through a Google Photos account created because of the available free unlimited storage without loss of quality.
 
+## Documentation
+As we all know, documentation is key for good performance. Please help improve the documentation of this repository if you stumble upon something or if you add scripts.
+[The documentation](https://ddavid.github.io/fsoco/) is hosted on [GitHub](https://github.com), based on the `docs/` directory in this repository and uses [Markdown](https://github.github.com/gfm/) to make it as easy as possible to contribute.
+
 ## Support
 
-If you're intereste in helping out, contact us: <a href=mailto:fsoco@munichmotorsport.de>fsoco@municHMotorsport.de</a>
+If you're interested in helping out, contact us: <a href=mailto:fsoco@munichmotorsport.de>fsoco@municHMotorsport.de</a>
