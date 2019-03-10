@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# FSOCO
+<small>Formula Student Objects in Context</small>
+Visit the [project's website](https://ddavid.github.io/fsoco/)
+![FSD pylon mosaic](https://imgur.com/JMCV3Dr)
 
-You can use the [editor on GitHub](https://github.com/ddavid/fsoco/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Contributing
+Sharing is caring. If you don't care, we unfortunately cannot grant access to the dataset ;)
+If you're interested in accessing this dataset, [write us an e-mail](mailto:fsoco@munichmotorsport.de). We'll open a shared album with you to which the upload of your data can be performed. After this, please open a pull request for the corresponding labels.
+Bonus points to those who upload useful scripts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The pictures are saved and shared through a Google Photos account created because of the available free unlimited storage without loss of quality.
 
-### Markdown
+## Support
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ddavid/fsoco/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you're intereste in helping out, contact us: <a href=mailto:fsoco@munichmotorsport.de>fsoco@municHMotorsport.de</a>
