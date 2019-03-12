@@ -11,13 +11,14 @@ Sharing is caring. If you don't care, we unfortunately cannot grant access to th
 If you're interested in accessing this dataset: 
 1. [Write us an e-mail](mailto:fsoco@munichmotorsport.de)
 1. Upload data to shared album
+    1. On `Settings` choose `High quality (free unlimited storage)`
 1. Fork the repository
 1. Add labels to the repository
 1. Update [documentation](https://ddavid.github.io/fsoco/)
 1. [Add relevant scripts to the repository] OPTIONAL but highly encouraged
 1. Open pull request
 
-The pictures are saved and shared through a Google Photos account created because of the available free unlimited storage without loss of quality.
+The pictures are saved and shared through a Google Photos account created because of the available free unlimited storage without significant loss of quality.
 
 ## Documentation
 As we all know, documentation is key for good performance. Please help improve the documentation of this repository if you stumble upon something or if you add scripts.
