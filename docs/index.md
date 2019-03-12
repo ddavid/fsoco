@@ -9,7 +9,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Team  | Data Type  | Annotation Type  | # Data | # Cones |
 |---|---|---|---|---|
 | municHMotorsport e.V.  | Color Images  | Darknet YOLO Format | 3745 | 18697 |
-| ...  |   |   |||
+| Elbflorace e.V.  |  Color Images |  Darknet YOLO Format | 853 | 3791 |
 |   |   |   |||
 |   |   |   |||
 |   |   |   |||
@@ -39,6 +39,8 @@ Darknet uses normalized image dimensions for the labels and defines the regions-
 ## Who?
 * municHMotorsport e.V.
 ![municHMotorsport e.V.](https://www.munichmotorsport.de/static/img/logo_rw.png)
+* Elbflorace e.V
+![Elbflorace e.V](https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png)
 * ...
 
 ## Why?
