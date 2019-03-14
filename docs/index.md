@@ -40,7 +40,7 @@ Darknet uses normalized image dimensions for the labels and defines the regions-
 * municHMotorsport e.V.
 ![municHMotorsport e.V.](https://www.munichmotorsport.de/static/img/logo_rw.png)
 * Elbflorace e.V
-[Elbflorace e.V](https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png)
+![Elbflorace e.V](https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png)
 * ...
 
 ## Why?
