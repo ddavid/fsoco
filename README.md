@@ -10,7 +10,7 @@ Sharing is caring. If you don't care, we unfortunately cannot grant access to th
 
 If you're interested in accessing this dataset: 
 1. [Write us an e-mail](mailto:fsoco@munichmotorsport.de)
-1. Upload data to shared album
+1. Upload data to shared Google Photos album
     1. On `Settings` choose `High quality (free unlimited storage)`
 1. Fork the repository
 1. Add labels to the repository
