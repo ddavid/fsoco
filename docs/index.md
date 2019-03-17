@@ -37,12 +37,14 @@ Darknet uses normalized image dimensions for the labels and defines the regions-
 [class index][mid_x][mid_y][width][height]
 
 ## Who?
-* [municHMotorsport e.V.](https://www.munichmotorsport.de/)
-<br></br>
-<img src="https://imgur.com/DYo8xVV.png" alt="municHMotorsport e.V." width="400" ></img>
-* [Elbflorace e.V](https://www.elbflorace.de/en/)
-<br></br>
-<img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400"></img>
+* [municHMotorsport e.V.](https://www.munichmotorsport.de/)  
+
+<a href="https://www.munichmotorsport.de/"><img src="https://imgur.com/DYo8xVV.png" alt="municHMotorsport e.V." width="400" /></a>
+
+* [Elbflorace e.V](https://www.elbflorace.de/en/)  
+
+<a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
+
 * ...
 
 ## Why?
