@@ -44,11 +44,8 @@ Darknet uses normalized image dimensions for the labels and defines the regions-
 * [Elbflorace e.V](https://www.elbflorace.de/en/)  
 
 <a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
-
 * [SCUTRacing](http://www.scutracing.com/)  
-
 <a href="http://www.scutracing.com/"><img src="http://www.scutracing.com/wp-content/uploads/2017/08/cropped-scut-racing.png" alt="SCUTRacing" width="400" /></a>
-
 * ...
 
 ## Why?
