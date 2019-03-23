@@ -1,0 +1,7 @@
+red_cone_stand
+
+blue_cone_stand
+
+yellow_cone_stand
+
+red_cone_down
