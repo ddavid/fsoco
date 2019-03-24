@@ -10,7 +10,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 |---|---|---|---|---|
 | municHMotorsport e.V.  | Color Images  | Darknet YOLO Format | 3745 | 18697 |
 | Elbflorace e.V.  |  Color Images |  Darknet YOLO Format | 853 | 3791 |
-| SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5915 |
+| SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5896 |
 |   |   |   |||
 |   |   |   |||
 |   |   |   |||
