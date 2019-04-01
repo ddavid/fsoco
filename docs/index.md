@@ -11,7 +11,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | municHMotorsport e.V.  | Color Images  | Darknet YOLO Format | 3745 | 18697 |
 | Elbflorace e.V.  |  Color Images |  Darknet YOLO Format | 853 | 3791 |
 | SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5896 |
-|   |   |   |||
+| DHBW Engineering e.V.  |  Color Images |  VOC | 600 | 5794 |
 |   |   |   |||
 |   |   |   |||
 |   |   |   |||
@@ -36,6 +36,34 @@ Darknet uses normalized image dimensions for the labels and defines the regions-
 
 [class index][mid_x][mid_y][width][height]
 
+#### VOC
+
+VOC is a xml based description format.
+A label will be similiar to:
+
+```xml
+<object>
+    <name>yellow-cone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <polygon>
+        <x1>877</x1>
+        <y1>571</y1>
+        <x2>897</x2>
+        <y2>528</y2>
+        <x3>916</x3>
+        <y3>576</y3>
+    </polygon>
+</object>
+```
+
+VOC can be converted to Darknet YOLO by using the script provided in this repo.
+DHBW Engineering used polygons for marking the cones.
+An example:
+
+![Example polygon image](./img/examplePolygone.PNG)
+
 ## Who?
 * [municHMotorsport e.V.](https://www.munichmotorsport.de/)  
 
@@ -46,7 +74,11 @@ Darknet uses normalized image dimensions for the labels and defines the regions-
 <a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
 * [SCUTRacing](http://www.scutracing.com/)  
 <a href="http://www.scutracing.com/"><img src="http://www.scutracing.com/wp-content/uploads/2017/08/cropped-scut-racing.png" alt="SCUTRacing" width="400" /></a>
-* ...
+* [DHBW Engineering e.V.](https://dhbw-engineering.de/) 
+
+<a href="https://dhbw-engineering.de/"><img src="./img/dhbw_engineering_logo.png" alt="DHBW Engineering e.V." width="400" /></a>
+
+*...
 
 ## Why?
 Open-Source Dataset to accelerate the development of (camera-based) solutions for **Object Detection** in the context of the Formula Student Driverless competitions.
