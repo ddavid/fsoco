@@ -18,7 +18,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 
 ### Annotation Types
 
-Here you'll find the definitions for all different annotation types appearing in the datasets. If you need the labels in another format, please look for the according script in the [scripts folder](https://github.com/ddavid/fsoco/scripts) or write one and share your solution - sharing is caring ;)
+Here you'll find the definitions for all different annotation types appearing in the datasets. If you need the labels in another format, please look for the according script in the [scripts folder](https://github.com/ddavid/fsoco/tree/master/scripts) or write one and share your solution - sharing is caring ;)
 
 #### Darknet YOLO
 
