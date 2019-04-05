@@ -12,7 +12,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Elbflorace e.V.  |  Color Images |  Darknet YOLO Format | 853 | 3791 |
 | SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5896 |
 | DHBW Engineering e.V.  |  Color Images |  VOC | 600 | 5794 |
-|   |   |   |||
+| StarkStrom Augsburg e.V  | Color Images  | Darknet YOLO Format  | 1903 | 12190 |
 |   |   |   |||
 |   |   |   |||
 
@@ -78,6 +78,9 @@ An example:
 
 <a href="https://dhbw-engineering.de/"><img src="./img/dhbw_engineering_logo.png" alt="DHBW Engineering e.V." width="400" /></a>
 
+* [StarkStrom Augsburg e.V.](https://starkstrom-augsburg.de/) 
+
+<a href="https://starkstrom-augsburg.de/"><img src="./img/ssa.jpg" alt="DHBW Engineering e.V." width="400" /></a>
 *...
 
 ## Why?
