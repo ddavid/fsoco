@@ -80,7 +80,7 @@ An example:
 
 * [StarkStrom Augsburg e.V.](https://starkstrom-augsburg.de/) 
 
-<a href="https://starkstrom-augsburg.de/"><img src="./img/ssa.jpg" alt="DHBW Engineering e.V." width="400" /></a>
+<a href="https://starkstrom-augsburg.de/"><img src="./img/ssa.jpg" alt="StarkStrom Augsburg e.V." width="400" /></a>
 *...
 
 ## Why?
