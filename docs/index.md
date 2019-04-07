@@ -73,6 +73,8 @@ An example:
 
 <a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
 * [SCUTRacing](http://www.scutracing.com/)  
+
+
 <a href="http://www.scutracing.com/"><img src="https://imgur.com/hbAelp9.png" alt="SCUTRacing" width="400" /></a>
 * [DHBW Engineering e.V.](https://dhbw-engineering.de/) 
 
