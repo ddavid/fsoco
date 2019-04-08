@@ -13,6 +13,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5896 |
 | DHBW Engineering e.V.  |  Color Images |  VOC | 600 | 5794 |
 | StarkStrom Augsburg e.V  | Color Images  | Darknet YOLO Format  | 1903 | 12190 |
+| AMZ Racing  | Color Images | Darknet YOLO Format | 791 | 5685 |
 |   |   |   |||
 |   |   |   |||
 
@@ -83,6 +84,10 @@ An example:
 * [StarkStrom Augsburg e.V.](https://starkstrom-augsburg.de/) 
 
 <a href="https://starkstrom-augsburg.de/"><img src="./img/ssa.jpg" alt="StarkStrom Augsburg e.V." width="400" /></a>
+
+* [AMZ Racing](http://amzracing.ch/) 
+
+<a href="http://amzracing.ch/"><img src="./img/amz.png" alt="AMZ Racing" width="400" /></a>
 *...
 
 ## Why?
