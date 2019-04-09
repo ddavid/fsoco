@@ -65,6 +65,14 @@ An example:
 
 ![Example polygon image](./img/examplePolygone.PNG)
 
+#### Munich Labeling Tool (https://github.com/ddavid/MM-label-tool)
+
+[# cones]
+[minX][minY][maxX][maxY][labelname][dist_from_width][dist_from_height]
+
+There is a converter to YOLO Darknet in Scripts.
+
+
 ## Who?
 * [municHMotorsport e.V.](https://www.munichmotorsport.de/)  
 
