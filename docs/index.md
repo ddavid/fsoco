@@ -14,6 +14,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | DHBW Engineering e.V.  |  Color Images |  VOC | 600 | 5794 |
 | StarkStrom Augsburg e.V  | Color Images  | Darknet YOLO Format  | 1903 | 12190 |
 | AMZ Racing  | Color Images | Darknet YOLO Format | 791 | 5685 |
+| ITU Racing  | Color Images  | Darknet YOLO Format  | 600 | 8241 |
 |   |   |   |||
 |   |   |   |||
 
@@ -88,6 +89,11 @@ An example:
 * [AMZ Racing](http://amzracing.ch/) 
 
 <a href="http://amzracing.ch/"><img src="./img/amz.png" alt="AMZ Racing" width="400" /></a>
+
+* [ITU Racing](http://racing.itu.edu.tr/) 
+
+<a href="http://racing.itu.edu.tr/"><img src="./img/itu_logo.jpg" alt="ITU Racing" height="150" width="400" /></a>
+
 *...
 
 ## Why?
