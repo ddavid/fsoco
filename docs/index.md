@@ -84,7 +84,7 @@ There is a converter to YOLO Darknet in Scripts.
 <a href="https://www.munichmotorsport.de/"><img src="https://imgur.com/DYo8xVV.png" alt="municHMotorsport e.V." width="400" /></a>
 
 * [Elbflorace e.V](https://www.elbflorace.de/en/)  
-dist_from_width
+
 <a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
 * [SCUTRacing](http://www.scutracing.com/)  
 
