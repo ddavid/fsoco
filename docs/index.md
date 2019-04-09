@@ -87,7 +87,7 @@ An example:
 
 * [ITU Racing](http://racing.itu.edu.tr/) 
 
-<a href="http://racing.itu.edu.tr/"><img src="./img/itu_logo.jpg" alt="ITU Racing" width="400" /></a>
+<a href="http://racing.itu.edu.tr/"><img src="./img/itu_logo.jpg" alt="ITU Racing" height="150" width="400" /></a>
 
 
 *...
