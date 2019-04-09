@@ -71,6 +71,8 @@ An example:
 
 [minX][minY][maxX][maxY][labelname][dist_from_width][dist_from_height]
 
+The position is given in absolute pixel values, the distance is calculated in metres.
+
 There is a converter to YOLO Darknet in Scripts.
 
 
