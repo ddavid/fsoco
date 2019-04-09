@@ -75,7 +75,7 @@ An example:
 
 The position is given in absolute pixel values, the distance is calculated in metres.
 
-There is a converter to YOLO Darknet in Scripts.
+There is a converter to Darknet YOLO in Scripts.
 
 
 ## Who?
