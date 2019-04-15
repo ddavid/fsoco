@@ -16,8 +16,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | AMZ Racing  | Color Images | Darknet YOLO Format | 791 | 5685 |
 | ITU Racing  | Color Images  | Darknet YOLO Format  | 600 | 8241 |
 | Raceyard  | Color Images  | MM-Label Tool Format | 600 | 9491|
-|   |   |   |||
-|   |   |   |||
+| EUFS | Color Images| Darknet YOLO Format | 1094 | 4594 |
 
 ### Annotation Types
 
@@ -109,6 +108,11 @@ There is a converter to Darknet YOLO in Scripts.
 * [Raceyard](https://www.raceyard.de/) 
 
 <a href="https://www.raceyard.de//"><img src="./img/raceyard_logo.jpg" alt="Raceyard" width="400" /></a>
+
+* [EUFS](https://eufs.eusa.ed.ac.uk/)
+
+<a href="https://eufs.eusa.ed.ac.uk/"><img src="./img/eufs-logo-hor.png" alt="EUFS" width="400"/></a>
+
 *...
 
 ## Why?
