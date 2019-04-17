@@ -6,7 +6,13 @@ Visit the [project's website and documentation](https://ddavid.github.io/fsoco/)
 ![FSD pylon mosaic](https://imgur.com/JMCV3Dr.png)
 
 ## Contributing
-Sharing is caring. If you don't care, we unfortunately cannot grant access to the dataset ;)
+We have set a minimum contribution amount of <strong>600</strong> images.<br/>
+Small enough not to be a large burden and large enough for the data set to grow naturally.
+
+##### "We don't have any Data or Cones."
+Sharing is caring. This data set lives from your contribution.
+If you don't have access to FS Cones we can provide you with raw data.
+This way, newer teams get an easy way to buy-in.
 
 If you're interested in accessing this dataset: 
 1. [Write us an e-mail](mailto:fsoco@munichmotorsport.de)
