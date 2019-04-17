@@ -12,7 +12,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Elbflorace e.V.  |  Color Images |  Darknet YOLO Format | 853 | 3791 |
 | SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5896 |
 | DHBW Engineering e.V.  |  Color Images |  VOC | 600 | 5794 |
-| StarkStrom Augsburg e.V  | Color Images  | Darknet YOLO Format  | 1903 | 12190 |
+| StarkStrom Augsburg e.V  | Color Images  | Darknet YOLO Format  | 1120 | 7501 |
 | AMZ Racing  | Color Images | Darknet YOLO Format | 791 | 5685 |
 | ITU Racing  | Color Images  | Darknet YOLO Format  | 600 | 8241 |
 | Raceyard  | Color Images  | MM-Label Tool Format | 600 | 9491|
