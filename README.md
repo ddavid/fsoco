@@ -1,6 +1,9 @@
 # FSOCO
 <small>Formula Student Objects in Context</small>
 
+![Amount of labeled images](https://img.shields.io/badge/Images-10195-blue.svg)
+![Amount of labeled cones](https://img.shields.io/badge/Cones-69690-blue.svg)
+
 Visit the [project's website and documentation](https://ddavid.github.io/fsoco/) and join the conversation on the [Google Group](https://groups.google.com/forum/#!forum/fsoco)
 
 ![FSD pylon mosaic](https://imgur.com/JMCV3Dr.png)
