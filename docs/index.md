@@ -16,7 +16,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | AMZ Racing  | Color Images | Darknet YOLO Format | 791 | 5685 |
 | ITU Racing  | Color Images  | Darknet YOLO Format  | 600 | 8241 |
 | Raceyard  | Color Images  | MM-Label Tool Format | 600 | 9491|
-|   |   |   |||
+| Dimitris Martin Arampatzis | Color Images | Darknet YOLO Format | 600 | 12333 |
 |   |   |   |||
 
 ### Annotation Types
