@@ -1,7 +1,7 @@
 # FSOCO
 <small>Formula Student Objects in Context</small>
 
-![Amount of Contributors 11](https://img.shields.io/badge/Contributors-11-green.svg)
+![Amount of Contributors 12](https://img.shields.io/badge/Contributors-12-green.svg)
 ![Amount of labeled images 12270](https://img.shields.io/badge/Images-12270-blue.svg)
 ![Amount of labeled cones 92156](https://img.shields.io/badge/Cones-92k-blue.svg)
 
