@@ -18,6 +18,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Raceyard  | Color Images  | MM-Label Tool Format | 600 | 9491|
 | EUFS | Color Images| Darknet YOLO Format | 1094 | 4594 |
 | Dimitris Martin Arampatzis | Color Images | Darknet YOLO Format | 600 | 12333 |
+| KTHFS                      | Color Images | Darknet YOLO Format | 630 | 3434
 |   |   |   |||
 
 ### Annotation Types
