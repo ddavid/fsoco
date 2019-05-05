@@ -19,6 +19,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | EUFS | Color Images| Darknet YOLO Format | 1094 | 4594 |
 | Dimitris Martin Arampatzis | Color Images | Darknet YOLO Format | 600 | 12333 |
 | Unicamp E-Racing Driverless | Color Images | Darknet YOLO Format | 844 | 6699 |
+| GETracing Dortmund | Color Images | Darknet YOLO Format | 600 | 1454 |
 ||||||
 ...
 
@@ -120,6 +121,10 @@ There is a converter to Darknet YOLO in Scripts.
 * [UNICAMP E-Racing](https://www.unicamperacing.com/)
 
 <a href="https://www.unicamperacing.com/"><img src="./img/unicamp_eracing.png" alt="Unicamp E-racing" width="400"/></a>
+
+* [GET Racing Dortmund](https://www.get-racing.de/)
+
+<a href="https://www.get-racing.de/"><img src="./img/get-logo.png" alt="GETracing" width="400"/></a>
 
 *...
 
