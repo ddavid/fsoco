@@ -19,6 +19,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | EUFS | Color Images| Darknet YOLO Format | 1094 | 4594 |
 | Dimitris Martin Arampatzis | Color Images | Darknet YOLO Format | 600 | 12333 |
 | Unicamp E-Racing Driverless | Color Images | Darknet YOLO Format | 844 | 6699 |
+| KTHFS                      | Color Images | Darknet YOLO Format | 630 | 3434 |
 ||||||
 ...
 
