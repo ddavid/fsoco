@@ -175,7 +175,7 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 * [DART Racing](https://dart-racing.de/index.php/news_und_medien.html)
 
-<a href="https://dart-racing.de/index.php/news_und_medien.html"><img src="./img/dartlogo.png" alt="DART Racing"  width="474" /></a>
+<a href="https://dart-racing.de/index.php/news_und_medien.html"><img src="./img/dartlogo.png" alt="DART Racing"  width="400" /></a>
 
 *...
 
