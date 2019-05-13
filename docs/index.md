@@ -13,18 +13,18 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5896 |
 | DHBW Engineering e.V.  |  Color Images |  VOC | 600 | 5794 |
 | StarkStrom Augsburg e.V  | Color Images  | Darknet YOLO Format  | 1120 | 7501 |
-| AMZ Racing  | Color Images | Darknet YOLO Format | 791 | 5685 |
-| ITU Racing  | Color Images  | Darknet YOLO Format  | 600 | 8241 |
-| Raceyard  | Color Images  | MM-Label Tool Format | 600 | 9491|
+| AMZ Racing | Color Images | Darknet YOLO Format | 791 | 5685 |
+| ITU Racing | Color Images  | Darknet YOLO Format  | 600 | 8241 |
+| Raceyard | Color Images  | MM-Label Tool Format | 600 | 9491|
 | EUFS | Color Images| Darknet YOLO Format | 1094 | 4594 |
 | Dimitris Martin Arampatzis | Color Images | Darknet YOLO Format | 600 | 12333 |
 | Unicamp E-Racing Driverless | Color Images | Darknet YOLO Format | 844 | 6699 |
-| KTHFS                      | Color Images | Darknet YOLO Format | 630 | 3434 |
-| GETracing Dortmund          | Color Images | Darknet YOLO Format | 600 | 1454 |
-| Vermilion Racing	      | Color Images | Darknet YOLO Format | 897 | 3422 |
-| DART Racing  |  Color Images |  LabelMe Webtool | 1658 | 22690 |
-||||||
-...
+| KTHFS | Color Images | Darknet YOLO Format | 630 | 3434 |
+| GETracing Dortmund | Color Images | Darknet YOLO Format | 600 | 1454 |
+| Vermilion Racing | Color Images | Darknet YOLO Format | 897 | 3422 |
+| DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
+|...|...|...|...|...|
+
 
 ### Annotation Types
 
