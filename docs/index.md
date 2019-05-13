@@ -23,7 +23,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | GETracing Dortmund | Color Images | Darknet YOLO Format | 600 | 1454 |
 | Vermilion Racing | Color Images | Darknet YOLO Format | 897 | 3422 |
 | DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
-| Fast Forest | Color Images | Darknet YOLO Format | 603 | 9504 |
+| Fast Forest | Color Images | Darknet YOLO Format | 603 | 9503 |
 |...|...|...|...|...|
 
 

@@ -2,9 +2,9 @@ Number of images: 603
 
 Objects per class:
 Cone_Yellow -> 3765
-Cone_Blue -> 2587
+Cone_Blue -> 2586
 Cone_Green -> 1886
 Cone_Orange -> 1038
 Cone_Orange_Big -> 228
 
-Total number of objects: 9504
+Total number of objects: 9503
