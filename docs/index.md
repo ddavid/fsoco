@@ -21,7 +21,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Unicamp E-Racing Driverless | Color Images | Darknet YOLO Format | 844 | 6699 |
 | KTHFS                      | Color Images | Darknet YOLO Format | 630 | 3434 |
 | GETracing Dortmund          | Color Images | Darknet YOLO Format | 600 | 1454 |
-| DART Racing  |  Color Images |  LabelMe Webtool | 1658 |  |
+| DART Racing  |  Color Images |  LabelMe Webtool | 1658 | 22690 |
 ||||||
 ...
 
@@ -86,6 +86,46 @@ There is a converter to Darknet YOLO in Scripts.
 #### LabelMe Webtool
 
 LabelMe Webtool is a xml based description format.
+
+```xml
+<annotation>
+    <filename>yellow-cone</filename>
+    <folder>yellow-cone</folder>
+    <source>
+        <sourceImage>The MIT-CSAIL database of objects and scenes</sourceImage>
+        <sourceAnnotation>LabelMe Webtool</sourceAnnotation>
+    </source>
+    <object>
+        <name>orange_big</name>
+        <deleted>0</deleted>
+        <verified>0</verified>
+        <occluded>no</occluded>
+        <attributes/>
+        <parts>
+            <hasparts/>
+            <ispartof/>
+        </parts>
+        <date>01-Jun-2018 17:53:36</date>
+        <id>0</id>
+        <type>bounding_box</type>
+        <polygon>
+            <username>anonymous</username>
+            <pt><x>265</x><y>762</y></pt>
+            <pt><x>339</x><y>762</y></pt>
+            <pt><x>339</x><y>620</y></pt>
+            <pt><x>265</x><y>620</y></pt>
+        </polygon>
+    </object>
+    <object></object>
+    ...
+    <object></object>
+    <imagesize>
+        <nrows>1080</nrows>
+        <ncols>1920</ncols>
+    </imagesize>
+</annotation>
+```
+
 More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 ## Who?
