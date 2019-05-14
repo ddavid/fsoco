@@ -24,6 +24,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Vermilion Racing | Color Images | Darknet YOLO Format | 897 | 3422 |
 | DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
 | Fast Forest | Color Images | Darknet YOLO Format | 603 | 9503 |
+| BME Formula Racing Team | Color Images | Supervisely Format | 1818 | 28912 |
 |...|...|...|...|...|
 
 
@@ -129,7 +130,39 @@ The following XML format is produced
 </annotation>
 ```
 
+
 More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
+
+#### Supervisely format
+
+[SUPERVISELY](https://supervise.ly/) is an online labeling tool for fast labeling.
+Labels are exported in the following JSON format.
+
+```json
+{
+   "tags":[],
+   "description":"",
+   "objects":[
+      {
+         "description":"",
+         "bitmap":null,
+         "tags":[],
+         "classTitle":"yellow", // blue,yellow,orange_big,orange_small
+         "points":{
+            "exterior":[  // [x,y]
+               [347.0,923.0], 
+               [487.0,1080.0]
+            ],
+            "interior":[]
+         }
+      }
+   ],
+   "size":{
+      "height":1080,
+      "width":1920
+   }
+}
+```
 
 ## Who?
 * [municHMotorsport e.V.](https://www.munichmotorsport.de/)  
@@ -140,7 +173,6 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
 * [SCUTRacing](http://www.scutracing.com/)  
-
 
 <a href="http://www.scutracing.com/"><img src="https://imgur.com/hbAelp9.png" alt="SCUTRacing" width="400" /></a>
 * [DHBW Engineering e.V.](https://dhbw-engineering.de/)
@@ -187,8 +219,12 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://www.fast-forest.de/"><img src="./img/ff.png" alt="Fast Forest" height="150" width="400" /></a>
 
-*...
+* [BME Formula Racing Team](http://www.frt.bme.hu/) 
+
+<a href="http://www.frt.bme.hu/"><img src="./img/bmefrt.png" alt="BME Formula Racing Team" height="300" width="500" /></a>
+
+* ...
 
 ## Why?
 Open-Source Dataset to accelerate the development of (camera-based) solutions for **Object Detection** in the context of the Formula Student Driverless competitions.
-Collecting raw data and annotating it accordingly is important, but is not feesible to be done well enough by one team within the time constraints of the competition.
+Collecting raw data and annotating it accordingly is important, but is not feasible to be done well enough by one team within the time constraints of the competition.
