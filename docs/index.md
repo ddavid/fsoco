@@ -25,7 +25,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
 | Fast Forest | Color Images | Darknet YOLO Format | 603 | 9503 |
 | FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
-| BME Formula Racing Team | Color Images | Supervisely Format | 1763 | 27877 |
+| BME Formula Racing Team | Color Images | Darknet YOLO Format | 1763 | 27877 |
 |...|...|...|...|...|
 
 
