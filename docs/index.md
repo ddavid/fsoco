@@ -24,6 +24,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Vermilion Racing | Color Images | Darknet YOLO Format | 897 | 3422 |
 | DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
 | Fast Forest | Color Images | Darknet YOLO Format | 603 | 9503 |
+| FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
 |...|...|...|...|...|
 
 
@@ -186,6 +187,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Fast Forest](https://www.fast-forest.de/) 
 
 <a href="https://www.fast-forest.de/"><img src="./img/ff.png" alt="Fast Forest" height="150" width="400" /></a>
+
+* [FS Team Tallinn](https://formulastudent.ee/en/)  
+
+<a href="https://formulastudent.ee/en/"><img src="./img/fs_team_tallinn.jpg" alt="FS Team Tallinn" width="400" /></a>
 
 *...
 
