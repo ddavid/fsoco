@@ -24,7 +24,8 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Vermilion Racing | Color Images | Darknet YOLO Format | 897 | 3422 |
 | DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
 | Fast Forest | Color Images | Darknet YOLO Format | 603 | 9503 |
-| BME Formula Racing Team | Color Images | Supervisely Format | 1818 | 28912 |
+| FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
+| BME Formula Racing Team | Color Images | Supervisely Format | 1763 | 27877 |
 |...|...|...|...|...|
 
 
@@ -133,36 +134,6 @@ The following XML format is produced
 
 More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
-#### Supervisely format
-
-[SUPERVISELY](https://supervise.ly/) is an online labeling tool for fast labeling.
-Labels are exported in the following JSON format.
-
-```json
-{
-   "tags":[],
-   "description":"",
-   "objects":[
-      {
-         "description":"",
-         "bitmap":null,
-         "tags":[],
-         "classTitle":"yellow", // blue,yellow,orange_big,orange_small
-         "points":{
-            "exterior":[  // [x,y]
-               [347.0,923.0], 
-               [487.0,1080.0]
-            ],
-            "interior":[]
-         }
-      }
-   ],
-   "size":{
-      "height":1080,
-      "width":1920
-   }
-}
-```
 
 ## Who?
 * [municHMotorsport e.V.](https://www.munichmotorsport.de/)  
@@ -219,11 +190,15 @@ Labels are exported in the following JSON format.
 
 <a href="https://www.fast-forest.de/"><img src="./img/ff.png" alt="Fast Forest" height="150" width="400" /></a>
 
+* [FS Team Tallinn](https://formulastudent.ee/en/)  
+
+<a href="https://formulastudent.ee/en/"><img src="./img/fs_team_tallinn.jpg" alt="FS Team Tallinn" width="400" /></a>
+
 * [BME Formula Racing Team](http://www.frt.bme.hu/) 
 
-<a href="http://www.frt.bme.hu/"><img src="./img/bmefrt.png" alt="BME Formula Racing Team" height="300" width="500" /></a>
+<a href="http://www.frt.bme.hu/"><img src="./img/bmefrt.png" alt="BME Formula Racing Team" width="400" /></a>
 
-* ...
+*...
 
 ## Why?
 Open-Source Dataset to accelerate the development of (camera-based) solutions for **Object Detection** in the context of the Formula Student Driverless competitions.
