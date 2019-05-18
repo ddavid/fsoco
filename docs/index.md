@@ -25,6 +25,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
 | Fast Forest | Color Images | Darknet YOLO Format | 603 | 9503 |
 | FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
+| BME Formula Racing Team | Color Images | Darknet YOLO Format | 1763 | 27877 |
 |...|...|...|...|...|
 
 
@@ -130,7 +131,9 @@ The following XML format is produced
 </annotation>
 ```
 
+
 More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
+
 
 ## Who?
 * [municHMotorsport e.V.](https://www.munichmotorsport.de/)  
@@ -141,7 +144,6 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
 * [SCUTRacing](http://www.scutracing.com/)  
-
 
 <a href="http://www.scutracing.com/"><img src="https://imgur.com/hbAelp9.png" alt="SCUTRacing" width="400" /></a>
 * [DHBW Engineering e.V.](https://dhbw-engineering.de/)
@@ -192,8 +194,12 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://formulastudent.ee/en/"><img src="./img/fs_team_tallinn.jpg" alt="FS Team Tallinn" width="400" /></a>
 
+* [BME Formula Racing Team](http://www.frt.bme.hu/) 
+
+<a href="http://www.frt.bme.hu/"><img src="./img/bmefrt.png" alt="BME Formula Racing Team" width="400" /></a>
+
 *...
 
 ## Why?
 Open-Source Dataset to accelerate the development of (camera-based) solutions for **Object Detection** in the context of the Formula Student Driverless competitions.
-Collecting raw data and annotating it accordingly is important, but is not feesible to be done well enough by one team within the time constraints of the competition.
+Collecting raw data and annotating it accordingly is important, but is not feasible to be done well enough by one team within the time constraints of the competition.
