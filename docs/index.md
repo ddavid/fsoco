@@ -128,6 +128,10 @@ There is a converter to Darknet YOLO in Scripts.
 
 <a href="https://www.get-racing.de/"><img src="./img/get-logo.png" alt="GETracing" width="400"/></a>
 
+* [Driverless UPC](https://driverless.upc.edu/)
+
+<a href="https://driverless.upc.edu/"><img src="./img/driverless_upc_logo.png" alt="DriverlessUPC" width="400"/></a>
+
 *...
 
 ## Why?
