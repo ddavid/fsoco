@@ -1,0 +1,26 @@
+<annotation>
+	<folder>left640360</folder>
+	<filename>frame_375.jpg</filename>
+	<path>C:\Users\Eloi\Desktop\left640360\frame_375.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>241</ymin>
+			<xmax>242</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>
