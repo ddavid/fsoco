@@ -21,6 +21,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Unicamp E-Racing Driverless | Color Images | Darknet YOLO Format | 844 | 6699 |
 | KTHFS                      | Color Images | Darknet YOLO Format | 630 | 3434 |
 | GETracing Dortmund          | Color Images | Darknet YOLO Format | 600 | 1454 |
+| Driverless UPC          | Color Images | VOC | 776 | 3885 |
 ||||||
 ...
 
