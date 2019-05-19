@@ -13,17 +13,21 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5896 |
 | DHBW Engineering e.V.  |  Color Images |  VOC | 600 | 5794 |
 | StarkStrom Augsburg e.V  | Color Images  | Darknet YOLO Format  | 1120 | 7501 |
-| AMZ Racing  | Color Images | Darknet YOLO Format | 791 | 5685 |
-| ITU Racing  | Color Images  | Darknet YOLO Format  | 600 | 8241 |
-| Raceyard  | Color Images  | MM-Label Tool Format | 600 | 9491|
+| AMZ Racing | Color Images | Darknet YOLO Format | 791 | 5685 |
+| ITU Racing | Color Images  | Darknet YOLO Format  | 600 | 8241 |
+| Raceyard | Color Images  | MM-Label Tool Format | 600 | 9491|
 | EUFS | Color Images| Darknet YOLO Format | 1094 | 4594 |
 | Dimitris Martin Arampatzis | Color Images | Darknet YOLO Format | 600 | 12333 |
 | Unicamp E-Racing Driverless | Color Images | Darknet YOLO Format | 844 | 6699 |
-| KTHFS                      | Color Images | Darknet YOLO Format | 630 | 3434 |
-| GETracing Dortmund          | Color Images | Darknet YOLO Format | 600 | 1454 |
+| KTHFS | Color Images | Darknet YOLO Format | 630 | 3434 |
+| GETracing Dortmund | Color Images | Darknet YOLO Format | 600 | 1454 |
+| Vermilion Racing | Color Images | Darknet YOLO Format | 897 | 3422 |
+| DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
+| Fast Forest | Color Images | Darknet YOLO Format | 603 | 9503 |
+| FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
+| BME Formula Racing Team | Color Images | Darknet YOLO Format | 1763 | 27877 |
 | Driverless UPC          | Color Images | VOC | 776 | 3885 |
-||||||
-...
+|...|...|...|...|...|
 
 ### Annotation Types
 
@@ -83,6 +87,53 @@ The position is given in absolute pixel values, the distance is calculated in me
 
 There is a converter to Darknet YOLO in Scripts.
 
+#### LabelMe Webtool
+
+LabelMe Webtool is a online labeling tool developed from [MIT CSAIL](https://www.csail.mit.edu/)
+The following XML format is produced
+
+```xml
+<annotation>
+    <filename>yellow-cone</filename>
+    <folder>yellow-cone</folder>
+    <source>
+        <sourceImage>The MIT-CSAIL database of objects and scenes</sourceImage>
+        <sourceAnnotation>LabelMe Webtool</sourceAnnotation>
+    </source>
+    <object>
+        <name>orange_big</name>
+        <deleted>0</deleted>
+        <verified>0</verified>
+        <occluded>no</occluded>
+        <attributes/>
+        <parts>
+            <hasparts/>
+            <ispartof/>
+        </parts>
+        <date>01-Jun-2018 17:53:36</date>
+        <id>0</id>
+        <type>bounding_box</type>
+        <polygon>
+            <username>anonymous</username>
+            <pt><x>265</x><y>762</y></pt>
+            <pt><x>339</x><y>762</y></pt>
+            <pt><x>339</x><y>620</y></pt>
+            <pt><x>265</x><y>620</y></pt>
+        </polygon>
+    </object>
+    <object></object>
+    ...
+    <object></object>
+    <imagesize>
+        <nrows>1080</nrows>
+        <ncols>1920</ncols>
+    </imagesize>
+</annotation>
+```
+
+
+More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
+
 
 ## Who?
 * [municHMotorsport e.V.](https://www.munichmotorsport.de/)  
@@ -93,7 +144,6 @@ There is a converter to Darknet YOLO in Scripts.
 
 <a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
 * [SCUTRacing](http://www.scutracing.com/)  
-
 
 <a href="http://www.scutracing.com/"><img src="https://imgur.com/hbAelp9.png" alt="SCUTRacing" width="400" /></a>
 * [DHBW Engineering e.V.](https://dhbw-engineering.de/)
@@ -128,6 +178,26 @@ There is a converter to Darknet YOLO in Scripts.
 
 <a href="https://www.get-racing.de/"><img src="./img/get-logo.png" alt="GETracing" width="400"/></a>
 
+* [Vermilion Racing](https://vermilionracing.com/)
+
+<a href="https://vermilionracing.com/"><img src="./img/vermilion-logo.png" alt="Vermilion Racing" width="400"/></a>
+
+* [DART Racing](https://dart-racing.de/index.php/news_und_medien.html)
+
+<a href="https://dart-racing.de/index.php/news_und_medien.html"><img src="./img/dartlogo.png" alt="DART Racing"  width="200" /></a>
+
+* [Fast Forest](https://www.fast-forest.de/) 
+
+<a href="https://www.fast-forest.de/"><img src="./img/ff.png" alt="Fast Forest" height="150" width="400" /></a>
+
+* [FS Team Tallinn](https://formulastudent.ee/en/)  
+
+<a href="https://formulastudent.ee/en/"><img src="./img/fs_team_tallinn.jpg" alt="FS Team Tallinn" width="400" /></a>
+
+* [BME Formula Racing Team](http://www.frt.bme.hu/) 
+
+<a href="http://www.frt.bme.hu/"><img src="./img/bmefrt.png" alt="BME Formula Racing Team" width="400" /></a>
+
 * [Driverless UPC](https://driverless.upc.edu/)
 
 <a href="https://driverless.upc.edu/"><img src="./img/driverless_upc_logo.png" alt="DriverlessUPC" width="400"/></a>
@@ -136,4 +206,4 @@ There is a converter to Darknet YOLO in Scripts.
 
 ## Why?
 Open-Source Dataset to accelerate the development of (camera-based) solutions for **Object Detection** in the context of the Formula Student Driverless competitions.
-Collecting raw data and annotating it accordingly is important, but is not feesible to be done well enough by one team within the time constraints of the competition.
+Collecting raw data and annotating it accordingly is important, but is not feasible to be done well enough by one team within the time constraints of the competition.
