@@ -27,6 +27,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
 | BME Formula Racing Team | Color Images | Darknet YOLO Format | 1763 | 27877 |
 | Driverless UPC          | Color Images | VOC | 776 | 3885 |
+|Global-Formula-Racing|Color Images|Coco|646|7146|
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -201,6 +202,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Driverless UPC](https://driverless.upc.edu/)
 
 <a href="https://driverless.upc.edu/"><img src="./img/driverless_upc_logo.png" alt="DriverlessUPC" width="400"/></a>
+
+* [Global-Formula-Racing](https://www.global-formula-racing.com/)
+
+<a href="https://www.global-formula-racing.com/"><img src="./img/GFR.png" alt="GFR" width="400"/></a>
 
 *...
 
