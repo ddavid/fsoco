@@ -210,7 +210,7 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 * [High-Octane Motorsports e.V.](http://www.octanes.de)
 
-<a href="https://www.octanes.de"><img src="./img/hom_logo.png" alt="HighOctaneMotorsports" width="4000"/></a>
+<a href="https://www.octanes.de"><img src="./img/hom_logo.png" alt="HighOctaneMotorsports" width="400"/></a>
 
 *...
 
