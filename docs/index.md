@@ -29,6 +29,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Driverless UPC          | Color Images | VOC | 776 | 3885 |
 | Global-Formula-Racing|Color Images | Coco | 646 | 7146 |
 | High-Octane Motorsports e.V. | Color Images | Darknet YOLO Format | 860 | 1895 |
+| FS Team Weingarten | Color Images | Darknet YOLO Format | 920 | 3220 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -211,6 +212,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [High-Octane Motorsports e.V.](http://www.octanes.de)
 
 <a href="https://www.octanes.de"><img src="./img/hom_logo.png" alt="HighOctaneMotorsports" width="400"/></a>
+
+* [FS Team Weingarten](https://www.fsteamweingarten.de/)
+
+<a href="https://www.fsteamweingarten.de/"><img src="./img/fstw_logo.png" alt="FS Team Weingarten" width="400"/></a>
 
 *...
 
