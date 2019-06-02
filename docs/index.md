@@ -29,6 +29,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Driverless UPC          | Color Images | VOC | 776 | 3885 |
 | Global-Formula-Racing|Color Images | Coco | 646 | 7146 |
 | High-Octane Motorsports e.V. | Color Images | Darknet YOLO Format | 860 | 1895 |
+| Mit Dut Colab | Color Images | North American Standard | 4452 | 55357 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -88,6 +89,14 @@ An example:
 The position is given in absolute pixel values, the distance is calculated in metres.
 
 There is a converter to Darknet YOLO in Scripts.
+
+#### North American Standard
+
+The NAS system makes use of single .csv files containing the labels. Each row, other than the first, represents a new image. Each column, other than the first two, represent a label for that particular image.
+
+The label format adheres to the following convention: [X-top_left, Y-top_left, Image Height, Image Width]. Note that all dimensions are in absolute pixel values. The first two columns consist of the image name and optionally a link to a public server hosting the images for convenient downloading.
+
+A parser for converting these .csv files to a python list can be found in the scripts folder. This particular dataset does not include class labels. 
 
 #### LabelMe Webtool
 
