@@ -92,7 +92,7 @@ There is a converter to Darknet YOLO in Scripts.
 
 #### North American Standard
 
-The NAS system makes use of single .csv files containing the labels. Each row, other than the first, represents a new image. Each column, other than the first two, represent a label for that particular image.
+The North American Standard system makes use of single .csv files containing the labels. Each row, other than the first, represents a new image. Each column, other than the first two, represent a label for that particular image.
 
 The label format adheres to the following convention: [X-top_left, Y-top_left, Image Height, Image Width]. Note that all dimensions are in absolute pixel values. The first two columns consist of the image name and optionally a link to a public server hosting the images for convenient downloading.
 
