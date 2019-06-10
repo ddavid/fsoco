@@ -1,1 +1,0 @@
-sem patri labely, dik :)
