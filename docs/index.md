@@ -27,6 +27,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
 | BME Formula Racing Team | Color Images | Darknet YOLO Format | 1763 | 27877 |
 | Driverless UPC          | Color Images | VOC | 776 | 3885 |
+| eForce Driverless | Color Images | Darknet YOLO Format | 600 | 4676 |
 |...|...|...|...|...|
 
 ### Annotation Types
