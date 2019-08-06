@@ -27,6 +27,8 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
 | BME Formula Racing Team | Color Images | Darknet YOLO Format | 1763 | 27877 |
 | Driverless UPC          | Color Images | VOC | 776 | 3885 |
+| Global-Formula-Racing|Color Images | Coco | 646 | 7146 |
+| High-Octane Motorsports e.V. | Color Images | Darknet YOLO Format | 860 | 1895 |
 | GreenTeam Uni Stuttgart | Color Images | Darknet YOLO Format | 827 | 4245 |
 |...|...|...|...|...|
 
@@ -202,6 +204,18 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Driverless UPC](https://driverless.upc.edu/)
 
 <a href="https://driverless.upc.edu/"><img src="./img/driverless_upc_logo.png" alt="DriverlessUPC" width="400"/></a>
+
+* [Global-Formula-Racing](https://www.global-formula-racing.com/)
+
+<a href="https://www.global-formula-racing.com/"><img src="./img/GFR.png" alt="GFR" width="400"/></a>
+
+* [High-Octane Motorsports e.V.](http://www.octanes.de)
+
+<a href="https://www.octanes.de"><img src="./img/hom_logo.png" alt="HighOctaneMotorsports" width="400"/></a>
+
+* [Green](https://driverless.greenteam-stuttgart.de/)
+
+<a href="https://driverless.greenteam-stuttgart.de/"><img src="https://driverless.greenteam-stuttgart.de/wp-content/uploads/sites/7/2018/05/Driverless-GreenTeam-E7001_homepageheader.jpg" alt="Green Team" width="400"/></a>
 
 *...
 
