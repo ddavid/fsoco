@@ -32,6 +32,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | GreenTeam Uni Stuttgart | Color Images | Darknet YOLO Format | 827 | 4245 |
 | FS Team Weingarten | Color Images | Darknet YOLO Format | 920 | 3220 |
 | Mit Dut Colab | Color Images | North American Standard | 4452 | 55357 |
+| Wisconsin Autonomous | Color Images | Darknet YOLO Format | 630 | 3338 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -234,6 +235,11 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Formula Student Team Delft Driverless](https://www.fsteamdelft.nl/driverless)
 
 <a href="https://www.fsteamdelft.nl/driverless"><img src="https://static.wixstatic.com/media/716c97_d3a2c1df840e40e99002e075b1d79277~mv2.png/v1/fill/w_118,h_96,al_c,usm_0.66_1.00_0.01/716c97_d3a2c1df840e40e99002e075b1d79277~mv2.png" alt="Formula Student Team Delft Driverless" width="400"/></a>
+
+* [Wisconsin Autonomous](http://vehicle.slc.engr.wisc.edu/)
+
+<a href="http://vehicle.slc.engr.wisc.edu/"><img src="./img/wisconsin_autonomous_logo.png" alt="Wisconsin Autonomous" width="400"/></a>
+
 
 *...
 
