@@ -25,6 +25,7 @@ If you're interested in accessing this dataset:
 1. Fork the repository
 1. Add labels to the repository
     1. If your labels use indices for the classes: Add `shortTeamName-classes.txt` to your label directory. See examples at `labels/mms` `labels/elbflorace`
+    Please use zero-based indexing as in the examples for ease of integration into existing scripts.
 1. Update [documentation](https://ddavid.github.io/fsoco/)
 1. [Add relevant scripts to the repository] OPTIONAL but highly encouraged
 1. Open pull request
