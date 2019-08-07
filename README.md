@@ -1,9 +1,9 @@
 # FSOCO
 <small>Formula Student Objects in Context</small>
 
-![Amount of Contributors 18](https://img.shields.io/badge/Contributors-18-green.svg)
-![Amount of labeled images 18567](https://img.shields.io/badge/Images-18567-blue.svg)
-![Amount of labeled cones 160984](https://img.shields.io/badge/Cones-160k-blue.svg)
+![Amount of Contributors 25](https://img.shields.io/badge/Contributors-25-green.svg)
+![Amount of labeled images 27546](https://img.shields.io/badge/Images-27546-blue.svg)
+![Amount of labeled cones 237838](https://img.shields.io/badge/Cones-238k-blue.svg)
 
 Visit the [project's website and documentation](https://ddavid.github.io/fsoco/) and join the conversation on the [Google Group](https://groups.google.com/forum/#!forum/fsoco)
 
