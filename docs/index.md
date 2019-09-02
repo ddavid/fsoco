@@ -33,6 +33,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | FS Team Weingarten | Color Images | Darknet YOLO Format | 920 | 3220 |
 | Mit Dut Colab | Color Images | North American Standard | 4452 | 55357 |
 | Wisconsin Autonomous | Color Images | Darknet YOLO Format | 630 | 3338 |
+| e-gnition Hamburg | Color Images | Darknet YOLO Format | 700 | 3368 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -239,6 +240,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Wisconsin Autonomous](http://vehicle.slc.engr.wisc.edu/)
 
 <a href="http://vehicle.slc.engr.wisc.edu/"><img src="./img/wisconsin_autonomous_logo.png" alt="Wisconsin Autonomous" width="400"/></a>
+
+* [e-gnition Hamburg](https://www.egnition.hamburg/start)
+
+<a href="https://www.egnition.hamburg/start"><img src="./img/e-gnition_logo.png" alt="e-gnition Hamburg" width="400"/></a>
 
 
 *...
