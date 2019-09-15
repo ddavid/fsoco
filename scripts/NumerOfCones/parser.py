@@ -4,8 +4,8 @@ currentPath = os.getcwd()
 currentPath += '/filesToRead/'
 #TO USE THIS ADD THE FILES IN A 'filesToRead' FOLDER IN THE LOCATION OF THE SCRIPT.
 #EDIT THE CONE CODES TO THE NUMBER OF CLASS YOU ARE USING.
-yellowConeCode = 0
-blueConeCode = 1
+yellowConeCode = 1
+blueConeCode = 0
 orangeConeCode = 2
 bigOrangeConeCode = 3
 #EDIT THE CONE CODES TO THE NUMBER OF CLASS YOU ARE USING.
