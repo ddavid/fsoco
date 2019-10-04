@@ -246,6 +246,9 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://www.egnition.hamburg/start"><img src="./img/e-gnition_logo.png" alt="e-gnition Hamburg" width="400"/></a>
 
+* [Aristotle University Racing Team Electric](http://aristurtle.gr/index.php/en/)
+
+<a href="http://aristurtle.gr/index.php/en/"><img src="./img/aristurtle.png" alt="Aristurtle" width="400"/></a>
 
 *...
 
