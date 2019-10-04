@@ -1,0 +1,6 @@
+No of Files Scanned: 3127
+No of Yellow Cones: 8318
+No of Blue Cones: 4508
+No of Orange Cones: 0
+No of Big Orange Cones: 408
+No of Cones 13234

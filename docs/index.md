@@ -34,6 +34,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Mit Dut Colab | Color Images | North American Standard | 4452 | 55357 |
 | Wisconsin Autonomous | Color Images | Darknet YOLO Format | 630 | 3338 |
 | e-gnition Hamburg | Color Images | Darknet YOLO Format | 700 | 3685 |
+|Arist.u.r.t.le. | Color Images | Darknet YOLO Format | 3127 | 13234 |
 |...|...|...|...|...|
 
 ### Annotation Types
