@@ -1,9 +1,9 @@
 import os
 
 # directory of MM-Labels
-idir = "001/"
+idir = "Labels_MM/"
 # directory of new Darknet Labels
-odir = "labels/"
+odir = "Labels_darknet/"
 
 # go through all files
 for filename in os.listdir(idir):
@@ -22,7 +22,7 @@ for filename in os.listdir(idir):
         x1,y1,x2,y2,label = int(data[0]), int(data[1]), int(data[2]), int(data[3]), data[4]
 
 	# change this to actual size
-        width, height = 1280, 1024
+        width, height = 1600, 1200
 
         # calc YOLO Coordinates
         dw = 1. / width

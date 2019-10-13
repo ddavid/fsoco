@@ -1,9 +1,9 @@
 # FSOCO
 <small>Formula Student Objects in Context</small>
 
-![Amount of Contributors 18](https://img.shields.io/badge/Contributors-18-green.svg)
-![Amount of labeled images 18567](https://img.shields.io/badge/Images-18567-blue.svg)
-![Amount of labeled cones 160984](https://img.shields.io/badge/Cones-160k-blue.svg)
+![Amount of Contributors 25](https://img.shields.io/badge/Contributors-25-green.svg)
+![Amount of labeled images 27546](https://img.shields.io/badge/Images-27546-blue.svg)
+![Amount of labeled cones 237838](https://img.shields.io/badge/Cones-238k-blue.svg)
 
 Visit the [project's website and documentation](https://ddavid.github.io/fsoco/) and join the conversation on the [Google Group](https://groups.google.com/forum/#!forum/fsoco)
 
@@ -25,6 +25,7 @@ If you're interested in accessing this dataset:
 1. Fork the repository
 1. Add labels to the repository
     1. If your labels use indices for the classes: Add `shortTeamName-classes.txt` to your label directory. See examples at `labels/mms` `labels/elbflorace`
+    Please use zero-based indexing as in the examples for ease of integration into existing scripts.
 1. Update [documentation](https://ddavid.github.io/fsoco/)
 1. [Add relevant scripts to the repository] OPTIONAL but highly encouraged
 1. Open pull request

@@ -27,6 +27,13 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
 | BME Formula Racing Team | Color Images | Darknet YOLO Format | 1763 | 27877 |
 | Driverless UPC          | Color Images | VOC | 776 | 3885 |
+| Global-Formula-Racing|Color Images | Coco | 646 | 7146 |
+| High-Octane Motorsports e.V. | Color Images | Darknet YOLO Format | 860 | 1895 |
+| GreenTeam Uni Stuttgart | Color Images | Darknet YOLO Format | 827 | 4245 |
+| FS Team Weingarten | Color Images | Darknet YOLO Format | 920 | 3220 |
+| Mit Dut Colab | Color Images | North American Standard | 4452 | 55357 |
+| Wisconsin Autonomous | Color Images | Darknet YOLO Format | 630 | 3338 |
+| e-gnition Hamburg | Color Images | Darknet YOLO Format | 700 | 3685 |
 | eForce Driverless | Color Images | Darknet YOLO Format | 600 | 4676 |
 |...|...|...|...|...|
 
@@ -87,6 +94,14 @@ An example:
 The position is given in absolute pixel values, the distance is calculated in metres.
 
 There is a converter to Darknet YOLO in Scripts.
+
+#### North American Standard
+
+The North American Standard system makes use of single .csv files containing the labels. Each row, other than the first, represents a new image. Each column, other than the first two, represent a label for that particular image.
+
+The label format adheres to the following convention: [X-top_left, Y-top_left, Image Height, Image Width]. Note that all dimensions are in absolute pixel values. The first two columns consist of the image name and optionally a link to a public server hosting the images for convenient downloading.
+
+A parser for converting these .csv files to a python list can be found in the scripts folder. This particular dataset does not include class labels. 
 
 #### LabelMe Webtool
 
@@ -202,6 +217,35 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Driverless UPC](https://driverless.upc.edu/)
 
 <a href="https://driverless.upc.edu/"><img src="./img/driverless_upc_logo.png" alt="DriverlessUPC" width="400"/></a>
+
+* [Global-Formula-Racing](https://www.global-formula-racing.com/)
+
+<a href="https://www.global-formula-racing.com/"><img src="./img/GFR.png" alt="GFR" width="400"/></a>
+
+* [High-Octane Motorsports e.V.](http://www.octanes.de)
+
+<a href="https://www.octanes.de"><img src="./img/hom_logo.png" alt="HighOctaneMotorsports" width="400"/></a>
+
+* [Green Team Driverless](https://driverless.greenteam-stuttgart.de/)
+
+<a href="https://driverless.greenteam-stuttgart.de/"><img src="https://driverless.greenteam-stuttgart.de/wp-content/uploads/sites/7/2018/05/Driverless-GreenTeam-E7001_homepageheader.jpg" alt="Green Team" width="400"/></a>
+
+* [FS Team Weingarten](https://www.fsteamweingarten.de/)
+
+<a href="https://www.fsteamweingarten.de/"><img src="./img/fstw_logo.png" alt="FS Team Weingarten" width="400"/></a>
+
+* [Formula Student Team Delft Driverless](https://www.fsteamdelft.nl/driverless)
+
+<a href="https://www.fsteamdelft.nl/driverless"><img src="https://static.wixstatic.com/media/716c97_d3a2c1df840e40e99002e075b1d79277~mv2.png/v1/fill/w_118,h_96,al_c,usm_0.66_1.00_0.01/716c97_d3a2c1df840e40e99002e075b1d79277~mv2.png" alt="Formula Student Team Delft Driverless" width="400"/></a>
+
+* [Wisconsin Autonomous](http://vehicle.slc.engr.wisc.edu/)
+
+<a href="http://vehicle.slc.engr.wisc.edu/"><img src="./img/wisconsin_autonomous_logo.png" alt="Wisconsin Autonomous" width="400"/></a>
+
+* [e-gnition Hamburg](https://www.egnition.hamburg/start)
+
+<a href="https://www.egnition.hamburg/start"><img src="./img/e-gnition_logo.png" alt="e-gnition Hamburg" width="400"/></a>
+
 
 *...
 
