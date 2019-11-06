@@ -247,6 +247,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 <a href="https://www.egnition.hamburg/start"><img src="./img/e-gnition_logo.png" alt="e-gnition Hamburg" width="400"/></a>
 
 
+* [e-force Prague](https://eforce.cvut.cz/en/)
+
+<a href="https://eforce.cvut.cz/en/"><img src="./img/e-force_logo.png" alt="e-force Prague" width="400"/></a>
+
 *...
 
 ## Why?
