@@ -259,6 +259,7 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Horsepower Hannover](https://www.horsepower-hannover.de/)
 
 <a href="https://www.horsepower-hannover.de/"><img src="./img/HorsePower_Logo_Schwarz.png" alt="HorsePowerHannover" width="400"/></a>
+
 *...
 
 ## Why?
