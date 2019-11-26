@@ -2,3 +2,4 @@ blue-cone
 yellow-cone
 orange-cone
 big-orange-cone
+big-yellow-cone

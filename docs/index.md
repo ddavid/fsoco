@@ -36,7 +36,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | e-gnition Hamburg | Color Images | Darknet YOLO Format | 700 | 3685 |
 | eForce Driverless | Color Images | Darknet YOLO Format | 600 | 4676 |
 |Arist.u.r.t.le. | Color Images | Darknet YOLO Format | 3127 | 13234 |
-|Dynamis PRC | Color Images | Darknet YOLO Format | 600 | 5115 |
+|Dynamis PRC | Color Images | Darknet YOLO Format | 600 | 5894 |
 |...|...|...|...|...|
 
 ### Annotation Types
