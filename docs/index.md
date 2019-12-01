@@ -36,6 +36,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | e-gnition Hamburg | Color Images | Darknet YOLO Format | 700 | 3685 |
 | eForce Driverless | Color Images | Darknet YOLO Format | 600 | 4676 |
 |Arist.u.r.t.le. | Color Images | Darknet YOLO Format | 3127 | 13234 |
+| Horsepower Hannover | Color Images | Darknet YOLO Format | 4373 | 7941 |
 |Dynamis PRC | Color Images | Darknet YOLO Format | 600 | 5894 |
 |...|...|...|...|...|
 
@@ -255,6 +256,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Aristotle University Racing Team Electric](http://aristurtle.gr/index.php/en/)
 
 <a href="http://aristurtle.gr/index.php/en/"><img src="./img/aristurtle.png" alt="Aristurtle" width="400"/></a>
+
+* [Horsepower Hannover](https://www.horsepower-hannover.de/)
+
+<a href="https://www.horsepower-hannover.de/"><img src="./img/HorsePower_Logo_Schwarz.png" alt="HorsePowerHannover" width="400"/></a>
 
 * [Dynamis PRC](https://www.dynamisprc.com/)
 
