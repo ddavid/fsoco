@@ -38,6 +38,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 |Arist.u.r.t.le. | Color Images | Darknet YOLO Format | 3127 | 13234 |
 | Horsepower Hannover | Color Images | Darknet YOLO Format | 4373 | 7941 |
 |Dynamis PRC | Color Images | Darknet YOLO Format | 600 | 5894 |
+| UPBracing Team e.V. | Color Images | Darknet YOLO Format | 949 | 7428 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -264,6 +265,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Dynamis PRC](https://www.dynamisprc.com/)
 
 <a href="https://www.dynamisprc.com/"><img src="./img/dynamis.png" alt="Dynamis" width="400"/></a>
+
+* [UPBracing Team e.V.](https://formulastudent.uni-paderborn.de)
+
+<a href="https://formulastudent.uni-paderborn.de"><img src="./img/upbracing.jpg" alt="UPBracing" width="400"/></a>
 
 *...
 
