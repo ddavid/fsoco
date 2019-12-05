@@ -1,0 +1,4 @@
+yellow-cone
+blue-cone
+big-orange-cone
+orange-cone
