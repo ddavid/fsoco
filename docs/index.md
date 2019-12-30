@@ -272,6 +272,12 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://formulastudent.uni-paderborn.de"><img src="./img/upbracing.jpg" alt="UPBracing" width="400"/></a>
 
+* [Formula Electric Belgium](https://formulaelectric.be/)
+
+<a href="https://formulaelectric.be/"><img src="./img/FEB_Color.png" alt="FEBelgium" width="400"/></a>
+
+
+
 *...
 
 ## Why?
