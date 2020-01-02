@@ -40,6 +40,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 |Dynamis PRC | Color Images | Darknet YOLO Format | 600 | 5894 |
 | FST Lisboa | Color Images | Darknet YOLO Format | 655 | 4221 |
 | UPBracing Team e.V. | Color Images | Darknet YOLO Format | 949 | 8570 |
+| Formula Electric Belgium | Color Images | Darknet YOLO Format | 600 | 4874 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -270,6 +271,12 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [UPBracing Team e.V.](https://formulastudent.uni-paderborn.de)
 
 <a href="https://formulastudent.uni-paderborn.de"><img src="./img/upbracing.jpg" alt="UPBracing" width="400"/></a>
+
+* [Formula Electric Belgium](https://formulaelectric.be/)
+
+<a href="https://formulaelectric.be/"><img src="./img/FEB_Color.png" alt="FEBelgium" width="400"/></a>
+
+
 
 *...
 
