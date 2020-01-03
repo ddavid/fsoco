@@ -41,6 +41,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | FST Lisboa | Color Images | Darknet YOLO Format | 655 | 4221 |
 | UPBracing Team e.V. | Color Images | Darknet YOLO Format | 949 | 8570 |
 | Formula Electric Belgium | Color Images | Darknet YOLO Format | 600 | 4874 |
+| STUBA Green Team | Color Images | Darknet YOLO Format | 1996 | 3346 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -276,7 +277,9 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://formulaelectric.be/"><img src="./img/FEB_Color.png" alt="FEBelgium" width="400"/></a>
 
+* [STUBA Green Team](http://sgteam.eu/)
 
+<a href="http://sgteam.eu/"><img src="./img/sgt.png" alt="STUBA Green Team" width="400"/></a>
 
 *...
 
