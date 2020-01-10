@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Package7 Kevin</folder>
+	<filename>cam_left0404.jpg</filename>
+	<path>C:\Users\A675909\Documents\CURECode\curenet\Training Data\FSOCO RAW\Package7 Kevin\cam_left0404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>245</ymin>
+			<xmax>160</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>239</ymin>
+			<xmax>506</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cone-orangebig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>222</ymin>
+			<xmax>317</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

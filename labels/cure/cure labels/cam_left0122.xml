@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Package3 Constantin</folder>
+	<filename>cam_left0122.jpg</filename>
+	<path>/Users/constantinkoch/Documents/Studium/CURE/curenet/Training Data/FSOCO RAW/Package3 Constantin/cam_left0122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>242</ymin>
+			<xmax>56</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>236</ymin>
+			<xmax>153</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>217</ymin>
+			<xmax>385</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>
