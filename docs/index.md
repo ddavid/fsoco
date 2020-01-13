@@ -42,6 +42,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | UPBracing Team e.V. | Color Images | Darknet YOLO Format | 949 | 8570 |
 | Formula Electric Belgium | Color Images | Darknet YOLO Format | 600 | 4874 |
 | STUBA Green Team | Color Images | Darknet YOLO Format | 1996 | 3346 |
+| CURE Mannheim  |  Color Images |  VOC | 600 | 3052 |
 |...|...|...|...|...|
 
 ### Annotation Types
