@@ -282,6 +282,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="http://sgteam.eu/"><img src="./img/sgt.png" alt="STUBA Green Team" width="400"/></a>
 
+* [CURE Mannheim](http://curemannheim.de/)
+
+<a href="http://curemannheim.de/"><img src="./img/Cure.png" alt="CURE Mannheim" width="400"/></a>
+
 *...
 
 ## Why?
