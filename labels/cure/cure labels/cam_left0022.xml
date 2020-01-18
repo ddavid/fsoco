@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>cone-blue</name>
+		<name>cone-orangebig</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
