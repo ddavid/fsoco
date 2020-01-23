@@ -43,6 +43,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Formula Electric Belgium | Color Images | Darknet YOLO Format | 600 | 4874 |
 | STUBA Green Team | Color Images | Darknet YOLO Format | 1996 | 3346 |
 | FaSTTUBe | Color Images | Darknet YOLO Format | 605 | 2196 |
+| CURE Mannheim  |  Color Images |  VOC | 600 | 3052 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -285,6 +286,11 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [FaSTTUBe](https://fasttube.de)
 
 <a href="https://fasttube.de"><img src="./img/fasttube_logo.png" alt="FaSTTUBe" width="400"/></a>
+
+* [CURE Mannheim](http://curemannheim.de/)
+
+<a href="http://curemannheim.de/"><img src="./img/Cure.png" alt="CURE Mannheim" width="400"/></a>
+
 
 *...
 

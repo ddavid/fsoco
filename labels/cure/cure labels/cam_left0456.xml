@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Package8 Karl</folder>
+	<filename>cam_left0456.jpg</filename>
+	<path>C:\Users\grobmann\Documents\CURE\curenet\Training Data\FSOCO RAW\Package8 Karl\cam_left0456.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>233</ymin>
+			<xmax>87</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>209</ymin>
+			<xmax>336</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

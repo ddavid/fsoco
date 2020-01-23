@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Package2 Karl</folder>
+	<filename>cam_left0118.jpg</filename>
+	<path>C:\Users\grobmann\Documents\CURE\curenet\Training Data\FSOCO RAW\Package2 Karl\cam_left0118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>243</ymin>
+			<xmax>55</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>239</ymin>
+			<xmax>151</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cone-yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>221</ymin>
+			<xmax>379</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
