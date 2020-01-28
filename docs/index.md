@@ -292,6 +292,9 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="http://curemannheim.de/"><img src="./img/Cure.png" alt="CURE Mannheim" width="400"/></a>
 
+* [Lions Racing Team Braunschweig](https://lionsracing.de)
+
+<a href="https://lionsracing.de"><img src="./img/LionsRacingBraunschweig.png" alt="Lions Racing" width="400"/></a>
 
 *...
 
