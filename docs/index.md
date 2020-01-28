@@ -44,6 +44,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | STUBA Green Team | Color Images | Darknet YOLO Format | 1996 | 3346 |
 | FaSTTUBe | Color Images | Darknet YOLO Format | 605 | 2196 |
 | CURE Mannheim  |  Color Images |  VOC | 600 | 3052 |
+| Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
 |...|...|...|...|...|
 
 ### Annotation Types
