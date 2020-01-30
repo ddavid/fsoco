@@ -45,6 +45,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | FaSTTUBe | Color Images | Darknet YOLO Format | 605 | 2196 |
 | CURE Mannheim  |  Color Images |  VOC | 600 | 3052 |
 | E-Team Squadra Corse | Color Images | Darknet YOLO Format & COCO Format | 600 | 782 |
+| Bauman Racing Team | Color Images | Darknet YOLO Format | 600 | 7159 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -296,6 +297,9 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="http://www.eteamsquadracorse.it/"><img src="./img/E-Team.png" alt="E-Team Squadra Corse" width="400"/></a>
 
+* [Bauman Racing Team](https://baumanracing.ru/)
+
+<a href="https://baumanracing.ru/"><img src="./img/BRT.png" alt="Bauman Racing Team" width="400"/></a>
 
 *...
 
