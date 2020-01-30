@@ -44,6 +44,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | STUBA Green Team | Color Images | Darknet YOLO Format | 1996 | 3346 |
 | FaSTTUBe | Color Images | Darknet YOLO Format | 605 | 2196 |
 | CURE Mannheim  |  Color Images |  VOC | 600 | 3052 |
+| E-Team Squadra Corse | Color Images | Darknet YOLO Format & COCO Format | 600 | 782 |
 | Bauman Racing Team | Color Images | Darknet YOLO Format | 600 | 7159 |
 |...|...|...|...|...|
 
@@ -291,6 +292,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [CURE Mannheim](http://curemannheim.de/)
 
 <a href="http://curemannheim.de/"><img src="./img/Cure.png" alt="CURE Mannheim" width="400"/></a>
+
+* [E-Team Squadra Corse](http://www.eteamsquadracorse.it/)
+
+<a href="http://www.eteamsquadracorse.it/"><img src="./img/E-Team.png" alt="E-Team Squadra Corse" width="400"/></a>
 
 * [Bauman Racing Team](https://baumanracing.ru/)
 
