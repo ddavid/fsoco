@@ -1,0 +1,4 @@
+0: small-orange-cone
+1: blue-cone
+2: yellow-cone
+3: big-orange-cone
