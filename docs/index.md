@@ -43,7 +43,11 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Formula Electric Belgium | Color Images | Darknet YOLO Format | 600 | 4874 |
 | STUBA Green Team | Color Images | Darknet YOLO Format | 1996 | 3346 |
 | FaSTTUBe | Color Images | Darknet YOLO Format | 605 | 2196 |
-| MMR Driverless | Color Images | Darknet YOLO Format | 600 | 7599 |
+| CURE Mannheim  |  Color Images |  VOC | 600 | 3052 |
+| E-Team Squadra Corse | Color Images | Darknet YOLO Format & COCO Format | 600 | 782 |
+| Bauman Racing Team | Color Images | Darknet YOLO Format | 600 | 7159 |
+| Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
+| MMR Driverless | Color Images | Darknet YOLO Format | 600 | 8498 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -286,6 +290,22 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [FaSTTUBe](https://fasttube.de)
 
 <a href="https://fasttube.de"><img src="./img/fasttube_logo.png" alt="FaSTTUBe" width="400"/></a>
+
+* [CURE Mannheim](http://curemannheim.de/)
+
+<a href="http://curemannheim.de/"><img src="./img/Cure.png" alt="CURE Mannheim" width="400"/></a>
+
+* [E-Team Squadra Corse](http://www.eteamsquadracorse.it/)
+
+<a href="http://www.eteamsquadracorse.it/"><img src="./img/E-Team.png" alt="E-Team Squadra Corse" width="400"/></a>
+
+* [Bauman Racing Team](https://baumanracing.ru/)
+
+<a href="https://baumanracing.ru/"><img src="./img/BRT.png" alt="Bauman Racing Team" width="400"/></a>
+
+* [Lions Racing Team Braunschweig](https://lionsracing.de)
+
+<a href="https://lionsracing.de"><img src="./img/LionsRacingBraunschweig.png" alt="Lions Racing" width="400"/></a>
 
 * [mmr-driverless](https://www.moremodenaracing.it/)
 
