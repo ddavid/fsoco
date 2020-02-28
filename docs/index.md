@@ -47,7 +47,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | E-Team Squadra Corse | Color Images | Darknet YOLO Format & COCO Format | 600 | 782 |
 | Bauman Racing Team | Color Images | Darknet YOLO Format | 600 | 7159 |
 | Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
-| UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6107 |
+| UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6014 |
 |...|...|...|...|...|
 
 ### Annotation Types
