@@ -48,6 +48,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Bauman Racing Team | Color Images | Darknet YOLO Format | 600 | 7159 |
 | Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
 | MMR Driverless | Color Images | Darknet YOLO Format | 600 | 8498 |
+| UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6014 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -310,6 +311,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [mmr-driverless](https://www.moremodenaracing.it/)
 
 <a href="https://www.moremodenaracing.it/"><img src="./img/mmr.png" alt="mmr-driverless" width="400"/></a>
+
+* [UPM Racing](http://www.upmracing.es/)
+
+<a href="http://www.upmracing.es/"><img src="./img/upmracing_logo.png" alt="UPM Racing" width="400"/></a>
 
 *...
 
