@@ -40,7 +40,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 |Dynamis PRC | Color Images | Darknet YOLO Format | 600 | 5894 |
 | FST Lisboa | Color Images | Darknet YOLO Format | 655 | 4221 |
 | UPBracing Team e.V. | Color Images | Darknet YOLO Format | 949 | 8570 |
-| TUfast Racing Team | Color Images | Darknet YOLO Format | 783 | 9442 |
+| TUfast Racing Team | Color Images | Darknet YOLO Format | 783 | 13080 |
 |...|...|...|...|...|
 
 ### Annotation Types
