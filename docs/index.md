@@ -40,6 +40,15 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 |Dynamis PRC | Color Images | Darknet YOLO Format | 600 | 5894 |
 | FST Lisboa | Color Images | Darknet YOLO Format | 655 | 4221 |
 | UPBracing Team e.V. | Color Images | Darknet YOLO Format | 949 | 8570 |
+| Formula Electric Belgium | Color Images | Darknet YOLO Format | 600 | 4874 |
+| STUBA Green Team | Color Images | Darknet YOLO Format | 1996 | 3346 |
+| FaSTTUBe | Color Images | Darknet YOLO Format | 605 | 2196 |
+| CURE Mannheim  |  Color Images |  VOC | 600 | 3052 |
+| E-Team Squadra Corse | Color Images | Darknet YOLO Format & COCO Format | 600 | 782 |
+| Bauman Racing Team | Color Images | Darknet YOLO Format | 600 | 7159 |
+| Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
+| MMR Driverless | Color Images | Darknet YOLO Format | 600 | 8498 |
+| UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6014 |
 | TUfast Racing Team | Color Images | Darknet YOLO Format | 783 | 13080 |
 |...|...|...|...|...|
 
@@ -272,9 +281,46 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://formulastudent.uni-paderborn.de"><img src="./img/upbracing.jpg" alt="UPBracing" width="400"/></a>
 
+* [Formula Electric Belgium](https://formulaelectric.be/)
+
+<a href="https://formulaelectric.be/"><img src="./img/FEB_Color.png" alt="FEBelgium" width="400"/></a>
+
+* [STUBA Green Team](http://sgteam.eu/)
+
+<a href="http://sgteam.eu/"><img src="./img/sgt.png" alt="STUBA Green Team" width="400"/></a>
+
+* [FaSTTUBe](https://fasttube.de)
+
+<a href="https://fasttube.de"><img src="./img/fasttube_logo.png" alt="FaSTTUBe" width="400"/></a>
+
+* [CURE Mannheim](http://curemannheim.de/)
+
+<a href="http://curemannheim.de/"><img src="./img/Cure.png" alt="CURE Mannheim" width="400"/></a>
+
+* [E-Team Squadra Corse](http://www.eteamsquadracorse.it/)
+
+<a href="http://www.eteamsquadracorse.it/"><img src="./img/E-Team.png" alt="E-Team Squadra Corse" width="400"/></a>
+
+* [Bauman Racing Team](https://baumanracing.ru/)
+
+<a href="https://baumanracing.ru/"><img src="./img/BRT.png" alt="Bauman Racing Team" width="400"/></a>
+
+* [Lions Racing Team Braunschweig](https://lionsracing.de)
+
+<a href="https://lionsracing.de"><img src="./img/LionsRacingBraunschweig.png" alt="Lions Racing" width="400"/></a>
+
+* [mmr-driverless](https://www.moremodenaracing.it/)
+
+<a href="https://www.moremodenaracing.it/"><img src="./img/mmr.png" alt="mmr-driverless" width="400"/></a>
+
+* [UPM Racing](http://www.upmracing.es/)
+
+<a href="http://www.upmracing.es/"><img src="./img/upmracing_logo.png" alt="UPM Racing" width="400"/></a>
+
 * [TUfast Racing Team](https://tufast-racingteam.de/)
 
 <a href="https://tufast-racingteam.de/"><img src="./img/TUfast.png" alt="TUfast" width="400"/></a>
+
 
 *...
 
