@@ -317,7 +317,7 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="http://www.upmracing.es/"><img src="./img/upmracing_logo.png" alt="UPM Racing" width="400"/></a>
 
-* [Scuderia Mensa](http://www.scuderia-mensa.de/)
+* [Scuderia Mensa](https://www.scuderia-mensa.de/)
 
 <a href="http://www.scuderia-mensa.de/"><img src="./img/scuderia_mensa_logo.png" alt="Scuderia Mensa" width="400"/></a>
 
