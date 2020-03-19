@@ -49,6 +49,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
 | MMR Driverless | Color Images | Darknet YOLO Format | 600 | 8498 |
 | UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6014 |
+| Scuderia Mensa  |  Color Images |  Darknet YOLO Format | 600 | 3423 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -315,6 +316,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [UPM Racing](http://www.upmracing.es/)
 
 <a href="http://www.upmracing.es/"><img src="./img/upmracing_logo.png" alt="UPM Racing" width="400"/></a>
+
+* [Scuderia Mensa](http://www.scuderia-mensa.de/)
+
+<a href="http://www.scuderia-mensa.de/"><img src="./img/scuderia_mensa_logo.png" alt="Scuderia Mensa" width="400"/></a>
 
 *...
 
