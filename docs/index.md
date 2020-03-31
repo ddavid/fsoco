@@ -50,6 +50,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | MMR Driverless | Color Images | Darknet YOLO Format | 600 | 8498 |
 | UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6014 |
 | Uvigo Motorsport  |  Color Images |  Darknet YOLO Format | 600 | 2352 |
+| TUfast Racing Team | Color Images | Darknet YOLO Format | 783 | 13080 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -320,6 +321,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Uvigo Motorsport](http://www.uvigomotorsport.com/)
 
 <a href="http://www.uvigomotorsport.com/"><img src="./img/uvigo_logo.png" alt="Uvigo Motorsport" width="400"/></a>
+
+* [TUfast Racing Team](https://tufast-racingteam.de/)
+
+<a href="https://tufast-racingteam.de/"><img src="./img/TUfast.png" alt="TUfast" width="400"/></a>
 
 *...
 
