@@ -47,6 +47,10 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | E-Team Squadra Corse | Color Images | Darknet YOLO Format & COCO Format | 600 | 782 |
 | Bauman Racing Team | Color Images | Darknet YOLO Format | 600 | 7159 |
 | Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
+| MMR Driverless | Color Images | Darknet YOLO Format | 600 | 8498 |
+| UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6014 |
+| Uvigo Motorsport  |  Color Images |  Darknet YOLO Format | 600 | 2352 |
+| TUfast Racing Team | Color Images | Darknet YOLO Format | 783 | 13080 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -305,6 +309,22 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Lions Racing Team Braunschweig](https://lionsracing.de)
 
 <a href="https://lionsracing.de"><img src="./img/LionsRacingBraunschweig.png" alt="Lions Racing" width="400"/></a>
+
+* [mmr-driverless](https://www.moremodenaracing.it/)
+
+<a href="https://www.moremodenaracing.it/"><img src="./img/mmr.png" alt="mmr-driverless" width="400"/></a>
+
+* [UPM Racing](http://www.upmracing.es/)
+
+<a href="http://www.upmracing.es/"><img src="./img/upmracing_logo.png" alt="UPM Racing" width="400"/></a>
+
+* [Uvigo Motorsport](http://www.uvigomotorsport.com/)
+
+<a href="http://www.uvigomotorsport.com/"><img src="./img/uvigo_logo.png" alt="Uvigo Motorsport" width="400"/></a>
+
+* [TUfast Racing Team](https://tufast-racingteam.de/)
+
+<a href="https://tufast-racingteam.de/"><img src="./img/TUfast.png" alt="TUfast" width="400"/></a>
 
 *...
 

@@ -94,6 +94,9 @@ def main():
 
     image_list = get_files(cwd, image_suffix)
     label_paths = get_files(cwd, "txt")
+    # Counter for labels lacking an image
+    orphan_labels = 0
+    orphan_paths  = []
 
     # RGB Tuple, 0-255
     # TODO adjust color according to entry index
@@ -101,6 +104,8 @@ def main():
 
     for path in label_paths:
 
+        im = None
+        
         label_file = open(path)
         label_lines = [line.rstrip("\n") for line in label_file.readlines()]
 
@@ -108,6 +113,15 @@ def main():
 
         prefix = path.split('.')[0]
         im = cv.imread(prefix + "." + image_suffix)
+        
+        # Ignore labels without images and remember orphaned paths
+        if im is None:
+        
+          orphan_labels += 1
+          orphan_paths.append(path)
+          print "Couldn't find image in cwd for label: ", path
+          continue
+        
         image_height = im.shape[0]
         image_width = im.shape[1]
 
@@ -136,7 +150,9 @@ def main():
             "Drawing Boxes for image: " + prefix + "." + image_suffix + " into " + "boxes_" + prefix + "." + image_suffix)
 
         cv.imwrite("boxes_" + prefix + "." + image_suffix, im)
-
+    
+    print "Amount of orphaned labeles: ", orphan_labels
+    print orphan_paths
 
 if __name__ == '__main__':
     main()
