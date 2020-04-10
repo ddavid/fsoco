@@ -6,53 +6,54 @@
 
 Open-Source Dataset for Objects that need to be recognized during the dynamic disciplines of the Formula Student Driverless competitions.
 
-| Team                         | Data Type    | Annotation Type                   | # Data | # Cones |
-| ---------------------------- | ------------ | --------------------------------- | ------ | ------- |
-| municHMotorsport e.V.        | Color Images | Darknet YOLO Format               | 3745   | 18697   |
-| Elbflorace e.V.              | Color Images | Darknet YOLO Format               | 853    | 3791    |
-| SCUTRacing                   | Color Images | Darknet YOLO Format               | 792    | 5896    |
-| DHBW Engineering e.V.        | Color Images | VOC                               | 600    | 5794    |
-| StarkStrom Augsburg e.V      | Color Images | Darknet YOLO Format               | 1120   | 7501    |
-| AMZ Racing                   | Color Images | Darknet YOLO Format               | 791    | 5685    |
-| ITU Racing                   | Color Images | Darknet YOLO Format               | 600    | 8241    |
-| Raceyard                     | Color Images | MM-Label Tool Format              | 600    | 9491    |
-| EUFS                         | Color Images | Darknet YOLO Format               | 1094   | 4594    |
-| Dimitris Martin Arampatzis   | Color Images | Darknet YOLO Format               | 600    | 12333   |
-| Unicamp E-Racing Driverless  | Color Images | Darknet YOLO Format               | 844    | 6699    |
-| KTHFS                        | Color Images | Darknet YOLO Format               | 630    | 3434    |
-| GETracing Dortmund           | Color Images | Darknet YOLO Format               | 600    | 1454    |
-| Vermilion Racing             | Color Images | Darknet YOLO Format               | 897    | 3422    |
-| DART Racing                  | Color Images | LabelMe Webtool                   | 1658   | 22690   |
-| Fast Forest                  | Color Images | Darknet YOLO Format               | 603    | 9503    |
-| FS Team Tallinn              | Color Images | Darknet YOLO Format               | 645    | 1650    |
-| BME Formula Racing Team      | Color Images | Darknet YOLO Format               | 1763   | 27877   |
-| Driverless UPC               | Color Images | VOC                               | 776    | 3885    |
-| Global-Formula-Racing        | Color Images | Coco                              | 646    | 7146    |
-| High-Octane Motorsports e.V. | Color Images | Darknet YOLO Format               | 860    | 1895    |
-| GreenTeam Uni Stuttgart      | Color Images | Darknet YOLO Format               | 827    | 4245    |
-| FS Team Weingarten           | Color Images | Darknet YOLO Format               | 920    | 3220    |
-| Mit Dut Colab                | Color Images | North American Standard           | 4452   | 55357   |
-| Wisconsin Autonomous         | Color Images | Darknet YOLO Format               | 630    | 3338    |
-| e-gnition Hamburg            | Color Images | Darknet YOLO Format               | 700    | 3685    |
-| eForce Driverless            | Color Images | Darknet YOLO Format               | 600    | 4676    |
-| Arist.u.r.t.le.              | Color Images | Darknet YOLO Format               | 3127   | 13234   |
-| Horsepower Hannover          | Color Images | Darknet YOLO Format               | 4373   | 7941    |
-| Dynamis PRC                  | Color Images | Darknet YOLO Format               | 600    | 5894    |
-| FST Lisboa                   | Color Images | Darknet YOLO Format               | 655    | 4221    |
-| UPBracing Team e.V.          | Color Images | Darknet YOLO Format               | 949    | 8570    |
-| Formula Electric Belgium     | Color Images | Darknet YOLO Format               | 600    | 4874    |
-| STUBA Green Team             | Color Images | Darknet YOLO Format               | 1996   | 3346    |
-| FaSTTUBe                     | Color Images | Darknet YOLO Format               | 605    | 2196    |
-| CURE Mannheim                | Color Images | VOC                               | 600    | 3052    |
-| E-Team Squadra Corse         | Color Images | Darknet YOLO Format & COCO Format | 600    | 782     |
-| Bauman Racing Team           | Color Images | Darknet YOLO Format               | 600    | 7159    |
-| Lions Racing Braunschweig    | Color Images | Darknet YOLO Format               | 644    | 9196    |
-| MMR Driverless               | Color Images | Darknet YOLO Format               | 600    | 8498    |
-| UPM Racing                   | Color Images | Darknet YOLO Format               | 633    | 6014    |
-| Uvigo Motorsport             | Color Images | Darknet YOLO Format               | 600    | 2352    |
-| TUfast Racing Team           | Color Images | Darknet YOLO Format               | 783    | 13080   |
-| FaSTDa Racing                | Color Images | Darknet YOLO Format               | 857    | 6751    |
-| ...                          | ...          | ...                               | ...    | ...     |
+| Team  | Data Type  | Annotation Type  | # Data | # Cones |
+|---|---|---|---|---|
+| municHMotorsport e.V.  | Color Images  | Darknet YOLO Format | 3745 | 18697 |
+| Elbflorace e.V.  |  Color Images |  Darknet YOLO Format | 853 | 3791 |
+| SCUTRacing  |  Color Images |  Darknet YOLO Format | 792 | 5896 |
+| DHBW Engineering e.V.  |  Color Images |  VOC | 600 | 5794 |
+| StarkStrom Augsburg e.V  | Color Images  | Darknet YOLO Format  | 1120 | 7501 |
+| AMZ Racing | Color Images | Darknet YOLO Format | 791 | 5685 |
+| ITU Racing | Color Images  | Darknet YOLO Format  | 600 | 8241 |
+| Raceyard | Color Images  | MM-Label Tool Format | 600 | 9491|
+| EUFS | Color Images| Darknet YOLO Format | 1094 | 4594 |
+| Dimitris Martin Arampatzis | Color Images | Darknet YOLO Format | 600 | 12333 |
+| Unicamp E-Racing Driverless | Color Images | Darknet YOLO Format | 844 | 6699 |
+| KTHFS | Color Images | Darknet YOLO Format | 630 | 3434 |
+| GETracing Dortmund | Color Images | Darknet YOLO Format | 600 | 1454 |
+| Vermilion Racing | Color Images | Darknet YOLO Format | 897 | 3422 |
+| DART Racing | Color Images | LabelMe Webtool | 1658 | 22690 |
+| Fast Forest | Color Images | Darknet YOLO Format | 603 | 9503 |
+| FS Team Tallinn | Color Images | Darknet YOLO Format | 645 | 1650 |
+| BME Formula Racing Team | Color Images | Darknet YOLO Format | 1763 | 27877 |
+| Driverless UPC          | Color Images | VOC | 776 | 3885 |
+| Global-Formula-Racing|Color Images | Coco | 646 | 7146 |
+| High-Octane Motorsports e.V. | Color Images | Darknet YOLO Format | 860 | 1895 |
+| GreenTeam Uni Stuttgart | Color Images | Darknet YOLO Format | 827 | 4245 |
+| FS Team Weingarten | Color Images | Darknet YOLO Format | 920 | 3220 |
+| Mit Dut Colab | Color Images | North American Standard | 4452 | 55357 |
+| Wisconsin Autonomous | Color Images | Darknet YOLO Format | 630 | 3338 |
+| e-gnition Hamburg | Color Images | Darknet YOLO Format | 700 | 3685 |
+| eForce Driverless | Color Images | Darknet YOLO Format | 600 | 4676 |
+|Arist.u.r.t.le. | Color Images | Darknet YOLO Format | 3127 | 13234 |
+| Horsepower Hannover | Color Images | Darknet YOLO Format | 4373 | 7941 |
+|Dynamis PRC | Color Images | Darknet YOLO Format | 600 | 5894 |
+| FST Lisboa | Color Images | Darknet YOLO Format | 655 | 4221 |
+| UPBracing Team e.V. | Color Images | Darknet YOLO Format | 949 | 8570 |
+| Formula Electric Belgium | Color Images | Darknet YOLO Format | 600 | 4874 |
+| STUBA Green Team | Color Images | Darknet YOLO Format | 1996 | 3346 |
+| FaSTTUBe | Color Images | Darknet YOLO Format | 605 | 2196 |
+| CURE Mannheim  |  Color Images |  VOC | 600 | 3052 |
+| E-Team Squadra Corse | Color Images | Darknet YOLO Format & COCO Format | 600 | 782 |
+| Bauman Racing Team | Color Images | Darknet YOLO Format | 600 | 7159 |
+| Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
+| MMR Driverless | Color Images | Darknet YOLO Format | 600 | 8498 |
+| UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6014 |
+| Uvigo Motorsport  |  Color Images |  Darknet YOLO Format | 600 | 2352 |
+| TUfast Racing Team | Color Images | Darknet YOLO Format | 783 | 13080 |
+| Scuderia Mensa  |  Color Images |  Darknet YOLO Format | 600 | 3423 |
+| FaSTDa Racing | Color Images | Darknet YOLO Format | 857 | 6751 |
+|...|...|...|...|...|
 
 ### Annotation Types
 
@@ -327,6 +328,10 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [TUfast Racing Team](https://tufast-racingteam.de/)
 
 <a href="https://tufast-racingteam.de/"><img src="./img/TUfast.png" alt="TUfast" width="400"/></a>
+
+* [Scuderia Mensa](https://www.scuderia-mensa.de/)
+
+<a href="http://www.scuderia-mensa.de/"><img src="./img/scuderia_mensa_logo.png" alt="Scuderia Mensa" width="400"/></a>
 
 * [FaSTDa Racing](https://fastda-racing.de/)
 
