@@ -54,7 +54,9 @@ import json
 import os
 import sys
 import argparse
+from tqdm import tqdm
 from pathlib import Path
+
 
 # TODO Replace OpenCV with PIL since only the image dimensions are required
 import cv2 as cv
@@ -66,15 +68,16 @@ colors = {'yellow': "#FFFF00",
           'orange': "#ffa500",
           'green': "#008000",
           'pink': "#ffc0cb"}
-
-image_suffix = ".jpeg"
-
+          
+SLY_META_FILE_NAME = 'meta.json'
 
 def get_args():
     parser = argparse.ArgumentParser(description='Convert Darknet YOLO annotations to Supervisely format.')
     parser.add_argument('classes_file', help='path to classes txt file', type=str)
     parser.add_argument('dataset_name', help='Name of dataset on Supervisely', type=str)
     parser.add_argument('project_name', help='Name of project on Supervisely', type=str)
+    parser.add_argument('--format', default='jpg',
+                        help='Image format', type=str, required=True)
     parser.add_argument('--colors_file', default='',
                         help='path to txt file with HEX colors for labels in the same order as classes file', type=str, required=False)
     return parser.parse_args()
@@ -134,7 +137,7 @@ def create_meta_file(classes, colors):
                                      'shape': 'rectangle',
                                      'color': color})
     try:
-        with open('meta.json', 'w', encoding='utf-8') as f:
+        with open(SLY_META_FILE_NAME, 'w', encoding='utf-8') as f:
             json.dump(meta_data, f, ensure_ascii=False, indent=4)
     except:
         return False
@@ -172,9 +175,9 @@ def create_object_list(rectangles, class_list):
     return object_list
 
 
-def convert_labels(label_paths, class_list):
+def convert_labels(label_paths, class_list, image_suffix):
     failed_conversions = []
-    for path in label_paths:
+    for path in tqdm(label_paths, total=len(label_paths), dynamic_ncols=True, desc="Converting labels from cwd"):
 
         im = None
 
@@ -185,7 +188,7 @@ def convert_labels(label_paths, class_list):
             rectangles = []
 
             prefix = path.split('.')[0]
-            im = cv.imread(prefix + image_suffix)
+            im = cv.imread(prefix + '.' + image_suffix)
 
             image_height = im.shape[0]
             image_width = im.shape[1]
@@ -219,6 +222,7 @@ def main():
     argv = get_args()
 
     class_list = get_class_list(argv.classes_file)
+    image_suffix = argv.format
     
     colors_list = []
     if argv.colors_file is '':
@@ -235,16 +239,17 @@ def main():
     Path(argv.dataset_name + "/img").mkdir(parents=True, exist_ok=True)
     os.chdir("..")
     label_paths = get_files(cwd, "txt")
-    img_paths = get_files(cwd, "jpeg")
+    img_paths = get_files(cwd, image_suffix)
 
-    success_labels = convert_labels(label_paths, class_list)
+    success_labels = convert_labels(label_paths, class_list, image_suffix)
     success_meta = create_meta_file(class_list, colors_list)
 
     if success_labels and success_meta:
         print("Successfully converted labels.")
-        converted_label_paths = get_files(cwd, "json")
-        # Leave meta.json in project_name directory
-        [label for label in converted_label_paths if not label.startswith('meta')]
+        # Move meta.json file to root of new supervisely project
+        os.rename(SLY_META_FILE_NAME, argv.project_name + '/'+ SLY_META_FILE_NAME)
+        # Only annotation json files left
+        converted_label_paths = get_files(cwd, "json")       
         # Move labels
         for converted_label_path in converted_label_paths:
             os.rename(converted_label_path, argv.project_name + '/' + argv.dataset_name + "/ann/" + converted_label_path)
