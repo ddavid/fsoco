@@ -1,0 +1,4 @@
+blueCone
+yellowCone
+orangeCone
+bigOrangeCone

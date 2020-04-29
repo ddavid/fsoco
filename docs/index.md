@@ -1,10 +1,10 @@
 # FSOCO
+
 <small>Formula Student Objects in Context</small>
 
 ## What?
+
 Open-Source Dataset for Objects that need to be recognized during the dynamic disciplines of the Formula Student Driverless competitions.
-
-
 
 | Team  | Data Type  | Annotation Type  | # Data | # Cones |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Uvigo Motorsport  |  Color Images |  Darknet YOLO Format | 600 | 2352 |
 | TUfast Racing Team | Color Images | Darknet YOLO Format | 783 | 13080 |
 | Scuderia Mensa  |  Color Images |  Darknet YOLO Format | 600 | 3423 |
+| FaSTDa Racing | Color Images | Darknet YOLO Format | 600 | 5864 |
 |...|...|...|...|...|
 
 ### Annotation Types
@@ -164,11 +165,10 @@ The following XML format is produced
 </annotation>
 ```
 
-
 More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
-
 ## Who?
+
 * [municHMotorsport e.V.](https://www.munichmotorsport.de/)  
 
 <a href="https://www.munichmotorsport.de/"><img src="https://imgur.com/DYo8xVV.png" alt="municHMotorsport e.V." width="400" /></a>
@@ -176,9 +176,11 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 * [Elbflorace e.V](https://www.elbflorace.de/en/)  
 
 <a href="https://www.elbflorace.de/en/"><img src="https://www.elbflorace.de/wordpress/wp-content/themes/elbflorace/resources/logoBig.png" alt="Elbflorace e.V." width="400" /></a>
+
 * [SCUTRacing](http://www.scutracing.com/)  
 
 <a href="http://www.scutracing.com/"><img src="https://imgur.com/hbAelp9.png" alt="SCUTRacing" width="400" /></a>
+
 * [DHBW Engineering e.V.](https://dhbw-engineering.de/)
 
 <a href="https://dhbw-engineering.de/"><img src="./img/dhbw_engineering_logo.png" alt="DHBW Engineering e.V." width="400" /></a>
@@ -331,8 +333,13 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="http://www.scuderia-mensa.de/"><img src="./img/scuderia_mensa_logo.png" alt="Scuderia Mensa" width="400"/></a>
 
+* [FaSTDa Racing](https://fastda-racing.de/)
+
+<a href="https://fastda-racing.de/"><img src="./img/FaSTDa.png" alt="FaSTDa" width="400"/></a>
+
 *...
 
 ## Why?
+
 Open-Source Dataset to accelerate the development of (camera-based) solutions for **Object Detection** in the context of the Formula Student Driverless competitions.
 Collecting raw data and annotating it accordingly is important, but is not feasible to be done well enough by one team within the time constraints of the competition.
