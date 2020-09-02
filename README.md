@@ -1,14 +1,14 @@
 # FSOCO
 <small>Formula Student Objects in Context</small>
 
-## Deprecation Notice 06.08.'20
+## Deprecation Notice 06.08.2020
 This project will not be actively maintained anymore.
 
-The [second iteration of the FSOCO dataset](https://github.com/fsoco/fsoco-dataset/) is already in beta testing.<br>
+The [second iteration of the FSOCO dataset](https://github.com/fsoco/fsoco-dataset/) has completed beta testing and is awaiting your contribution.
+Check out the new [website](https://www.fsoco-dataset.com).
+
 This second iteration does **not** contain the data from the first one from the start, but migration of your datasets is possible, if you fulfill the new requirements - for most only small changes will be needed to achieve this.
 You can read into [the reasoning behind this break](https://www.fsoco-dataset.com/overview/#differences-to-fsocov1) between the first and second iteration.
-
-If you're interested in either joining the waiting list for the beta testing or being notified when the official start happens, drop us a line: [fsoco.dataset@gmail.com](mailto:fsoco.dataset@gmail.com)
 
 ![FSD pylon mosaic](https://imgur.com/JMCV3Dr.png)
 
